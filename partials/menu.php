@@ -20,7 +20,7 @@
                 <div class="container">
                     <!--nav starts-->
                     <nav id="main-menu">
-                    	<div class="dt-menu-toggle" id="dt-menu-toggle">Menu<span class="dt-menu-toggle-icon"></span></div>
+                    	<div class="dt-menu-toggle" id="dt-menu-toggle">菜单<span class="dt-menu-toggle-icon"></span></div>
                         <ul id="menu-main-menu" class="menu">
                             <li class="<?php if ($page=='home') { echo('current_page_item') ; } ?> menu-item-simple-parent menu-item-depth-0 red"> <a href="index.php"> 主页 </a> 
                             <!--

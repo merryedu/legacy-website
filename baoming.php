@@ -3,7 +3,7 @@
 	<!--wrapper starts-->
     <div class="wrapper">
         <?php 
-		$page = 'about';
+		$page = 'baoming';
 		?>
         <?php include( "partials/menu.php" ); ?>
         <!--main starts-->

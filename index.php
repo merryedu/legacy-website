@@ -486,7 +486,7 @@
                                     </a>  
                                     <div class="image-overlay">  
                                         <div class="product-button">
-                                            <a href="#" class="add-cart-btn"> 报名 </a>
+                                            <a href="http://merryedu.com/baoming.php" class="add-cart-btn"> 报名 </a>
                                         </div>
                                     </div>
                                 </div>

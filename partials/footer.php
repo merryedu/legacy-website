@@ -86,7 +86,7 @@
             <!--footer-widgets-wrapper ends-->  
             <div class="copyright">
         		<div class="container">
-                	<p class="copyright-info">© 2014 MerryEdu. All rights reserved. Design by <a href="https://github.com/merryedu" title=""> merryedu </a> 苏ICP备15002411号</p>
+                	<p class="copyright-info"> ©版权所有：明睿教育 Copy Right 2015 merryedu.com All Right Reserved. Design by <a href="https://github.com/merryedu" title=""> merryedu </a> 苏ICP备15002411号</p>
         			<div class="footer-links">
                         <p>Follow us</p>
                         <ul class="dt-sc-social-icons">

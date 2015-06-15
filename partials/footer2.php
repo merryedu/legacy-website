@@ -103,6 +103,7 @@
     </div>
     <!--wrapper ends-->
     <a href="" title="返回顶部" class="back-to-top">返回顶部 ↑</a>
+    <script type="text/javascript" src="http://tajs.qq.com/stats?sId=46615339" charset="UTF-8"></script>
     <!--Java Scripts-->
     <script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/jquery-migrate.min.js"></script>

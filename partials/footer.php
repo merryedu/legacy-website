@@ -10,13 +10,10 @@
                             <h3 class="widgettitle red_sketch"> 关于明睿教育 </h3>
                             <p><a href=""><strong>明睿教育</strong></a> 是南京领先的中小学教育品牌，致力于为5-12岁的小朋友提供高品质的课外辅导，目前已成为仙林乃至南京地区颇受家长和学生信赖的小学课外辅导品牌.</p>
                             <ul>
-                                <li> <a href=""> 数学奥赛加油站 </a> </li>
-                                <li> <a href=""> 二年级基础班 </a> </li>
-                                <li> <a href=""> 二年级提高班 </a> </li>
-                                <li> <a href=""> 二年级尖子班 </a> </li>
-                                <li> <a href=""> 三年级基础班 </a> </li>
-                                <li> <a href=""> 三年级提高班 </a> </li>
-                                <li> <a href=""> 三年级尖子班 </a> </li>
+                                <li> <a href=""> 趣味数学讲座(试听) </a> </li>
+                                <li> <a href=""> 幼升小能力与兴趣培养 </a> </li>
+                                <li> <a href=""> 一年级至二年级10人精品小班(快乐思维) </a> </li>
+                                <li> <a href=""> 三年级至六年级15人拓展与提高(思维+) </a> </li>
                             </ul>
                         </aside>
                     </div>
@@ -98,8 +95,8 @@
                         <ul class="dt-sc-social-icons">
                         	<li class="weibo"><a href="http://weibo.com/nanjingmerryedu"><i class="fa fa-weibo"></i></a></li>
                         	<li class="tencent-weibo"><a href="http://t.qq.com/merryedu"><i class="fa fa-tencent-weibo"></i></a></li>
-                        	<li class="weibo"><a href="#"><i class="fa fa-weibo"></i></a></li>
-                        	<li class="weibo"><a href="#"><i class="fa fa-weibo"></i></a></li>
+                        	<li class="wechat"><a href="/index.php#merry_wechat"><i class="fa fa-wechat"></i></a></li>
+                        	<li class="qq"><a href="/index.php#merry_wechat"><i class="fa fa-qq"></i></a></li>
                         </ul>
                     </div>
         		</div>

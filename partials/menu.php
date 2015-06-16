@@ -181,10 +181,10 @@
                     <!--nav ends-->
 
                     <ul class="dt-sc-social-icons">
-                        <li><a href="#" title="Facebook" class="dt-sc-tooltip-top facebook"><span class="fa fa-facebook"></span></a></li>
-                        <li><a href="#" title="Youtube" class="dt-sc-tooltip-top youtube"><span class="fa fa-youtube"></span></a></li>
-                        <li><a href="#" title="Twitter" class="dt-sc-tooltip-top twitter"><span class="fa fa-twitter"></span></a></li>
-                        <li><a href="#" title="Google Plus" class="dt-sc-tooltip-top gplus"><span class="fa fa-google-plus"></span></a></li>
+                        <li><a href="http://weibo.com/nanjingmerryedu" title="微博" class="dt-sc-tooltip-top weibo"><span class="fa fa-weibo"></span></a></li>
+                        <li><a href="http://t.qq.com/merryedu" title="腾讯微博" class="dt-sc-tooltip-top tencent-weibo"><span class="fa fa-tencent-weibo"></span></a></li>
+                        <li><a href="/index.php#merry_wechat" title="微信公众号" class="dt-sc-tooltip-top wechat"><span class="fa fa-wechat"></span></a></li>
+                        <li><a href="/index.php#merry_wechat" title="QQ" class="dt-sc-tooltip-top qq"><span class="fa fa-qq"></span></a></li>
                     </ul>
                 </div>
             </div>

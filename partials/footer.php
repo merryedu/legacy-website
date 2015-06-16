@@ -68,15 +68,21 @@
                             </div>
                         </aside>
                         <aside class="widget mailchimp">
-                            <p> 邮件订阅 </p>
+                            <p class="dt-sc-contact-info"> <span class="fa fa-wechat"></span>扫一扫，加入明睿教育微信公众号 </p>
+                            <div class="image">
+                                <img src="images/qrcode_merry.jpg" alt="" title="明睿教育微信公众号">
+                            </div>
+                            <div id="merry_wechat"></div>
+                            <!--
                             <form name="frmnewsletter" class="mailchimp-form" action="php/subscribe.php" method="post">
                                 <p>
                                     <span class="fa fa-envelope-o"> </span>
-                                    <input type="email" placeholder="邮件地址" name="mc_email" required />	
+                                    <input type="email" placeholder="邮箱地址" name="mc_email" required />	
                                 </p>	
                                 <input type="submit" value="订阅" class="button" name="btnsubscribe">
                             </form>
                             <div id="ajax_subscribe_msg"></div>
+                            -->
                         </aside>
                     </div>
                     
@@ -90,10 +96,10 @@
         			<div class="footer-links">
                         <p>Follow us</p>
                         <ul class="dt-sc-social-icons">
-                        	<li class="facebook"><a href="#"><img src="images/facebook.png" alt="" title=""></a></li>
-                            <li class="twitter"><a href="#"><img src="images/twitter.png" alt="" title=""></a></li>
-                            <li class="gplus"><a href="#"><img src="images/gplus.png" alt="" title=""></a></li>
-                            <li class="pinterest"><a href="#"><img src="images/pinterest.png" alt="" title=""></a></li>
+                        	<li class="weibo"><a href="http://weibo.com/nanjingmerryedu"><i class="fa fa-weibo"></i></a></li>
+                        	<li class="tencent-weibo"><a href="http://t.qq.com/merryedu"><i class="fa fa-tencent-weibo"></i></a></li>
+                        	<li class="weibo"><a href="#"><i class="fa fa-weibo"></i></a></li>
+                        	<li class="weibo"><a href="#"><i class="fa fa-weibo"></i></a></li>
                         </ul>
                     </div>
         		</div>
@@ -105,6 +111,8 @@
     <!--wrapper ends-->
     <a href="" title="返回顶部" class="back-to-top">返回顶部 ↑</a>
     <!--Java Scripts-->
+    <div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["weixin","tsina","tqq","qzone","renren"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","tsina","tqq","qzone","renren"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
     <script type="text/javascript" src="http://tajs.qq.com/stats?sId=46615339" charset="UTF-8"></script>
     <script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/jquery-migrate.min.js"></script>

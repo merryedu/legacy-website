@@ -431,68 +431,69 @@
                         <ul class="products">
                             <li class="dt-sc-one-fourth column first">
                                 <div class="product-thumb">
-                                    <a href="#">
-                                        <img src="http://placehold.it/510x716" alt="" title="">
+                                    <a href="/baoming.php">
+                                        <img src="images/try_summer.jpg" alt="" title="">
                                     </a>  
                                     <span class="sale"> Hot! </span>
                                     <div class="image-overlay">  
                                         <div class="product-button">
-                                            <a href="#" class="add-cart-btn"> 报名 </a>
+                                            <a href="/baoming.php" class="add-cart-btn"> 报名 </a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="product-details">
-                                    <h5><a href="#"> 趣味数学讲座 </a></h5>
+                                    <h5><a href="/baoming.php"> 趣味数学讲座(试听) </a></h5>
                                     <span class="price"> 免费 </span>
                                 </div>
                             </li>
                             <li class="dt-sc-one-fourth column">
                                 <div class="product-thumb">
-                                    <a href="#">
-                                        <img src="http://placehold.it/510x716" alt="" title="">
-                                    </a>  
+                                    <a href="/baoming.php">
+                                        <img src="images/g2_summer.jpg" alt="" title="">
+                                    </a>
+                                    <span class="sale"> Hot! </span>  
                                     <div class="image-overlay">  
                                         <div class="product-button">
-                                            <a href="#" class="add-cart-btn"> 报名 </a>
+                                            <a href="/baoming.php" class="add-cart-btn"> 报名 </a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="product-details">
-                                    <h5><a href="#"> 二年级春季 </a></h5>
-                                    <span class="price"> ￥120.00 </span>
+                                    <h5><a href="/baoming.php"> 二年级暑秋班 </a></h5>
+                                    <span class="price"> ￥120.00 / 次 </span>
                                 </div>
                             </li>
                             <li class="dt-sc-one-fourth column">
                                 <div class="product-thumb">
-                                    <a href="#">
-                                        <img src="http://placehold.it/510x716" alt="" title="">
+                                    <a href="/baoming.php">
+                                        <img src="images/g3_summer.jpg" alt="" title="">
                                     </a>  
-                                    <span class="sale"> Hot! </span>
+                                    <!--<span class="sale"> Hot! </span>-->
                                     <div class="image-overlay">  
                                         <div class="product-button">
-                                            <a href="#" class="add-cart-btn"> 报名 </a>
+                                            <a href="/baoming.php" class="add-cart-btn"> 报名 </a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="product-details">
-                                    <h5><a href="#"> 三年级春季短期班 </a></h5>
-                                    <span class="price"> ￥150.00 </span>
+                                    <h5><a href="/baoming.php"> 三年级暑秋班 </a></h5>
+                                    <span class="price"> ￥150.00 / 次 </span>
                                 </div>
                             </li>
                             <li class="dt-sc-one-fourth column">
                                 <div class="product-thumb">
-                                    <a href="#">
+                                    <a href="/baoming.php">
                                         <img src="http://placehold.it/510x716" alt="" title="">
                                     </a>  
                                     <div class="image-overlay">  
                                         <div class="product-button">
-                                            <a href="http://merryedu.com/baoming.php" class="add-cart-btn"> 报名 </a>
+                                            <a href="/baoming.php" class="add-cart-btn"> 报名 </a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="product-details">
-                                    <h5><a href="#"> 三年级春季 </a></h5>
-                                    <span class="price"> ￥150.00 </span>
+                                    <h5><a href="/baoming.php"> 四年级暑秋班 </a></h5>
+                                    <span class="price"> ￥150.00 / 次 </span>
                                 </div>
                             </li>
                         </ul>

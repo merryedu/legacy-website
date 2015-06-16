@@ -188,33 +188,33 @@ header ul.dt-sc-social-icons li a:hover:before{opacity:0;}
 
 header ul.dt-sc-social-icons li a:hover span{top:0px;}
 
-header ul.dt-sc-social-icons li a.facebook:before{content:"\f09a";}
+header ul.dt-sc-social-icons li a.weibo:before{content:"\f18a";}
 
-header ul.dt-sc-social-icons li a.youtube:before{content:"\f167";}
+header ul.dt-sc-social-icons li a.tencent-weibo:before{content:"\f1d5";}
 
-header ul.dt-sc-social-icons li a.twitter:before{content:"\f099";}
+header ul.dt-sc-social-icons li a.wechat:before{content:"\f1d7";}
 
-header ul.dt-sc-social-icons li a.gplus:before{content:"\f0d5";}
+header ul.dt-sc-social-icons li a.qq:before{content:"\f1d6";}
 
 header ul.dt-sc-social-icons li a span{width:inherit; padding:0px 10px; height:70px; line-height:65px; bottom:auto; top:-70px; left:0px; -webkit-transition:top .3s ease-in-out; -moz-transition:top .3s ease-in-out; transition:top .3s ease-in-out; display:block; position:absolute;}
 
-header ul.dt-sc-social-icons li a.facebook span{border-color:#35538f; background:#35538f;}
+header ul.dt-sc-social-icons li a.weibo span{border-color:#35538f; background:#35538f;}
 
-header ul.dt-sc-social-icons li a.youtube span{border-color:#b70400; background:#b70400;}
+header ul.dt-sc-social-icons li a.tencent-weibo span{border-color:#b70400; background:#b70400;}
 
-header ul.dt-sc-social-icons li a.facebook{border-color:#35538f;}
+header ul.dt-sc-social-icons li a.weibo{border-color:#35538f;}
 	
-header ul.dt-sc-social-icons li a.youtube{border-color:#b70400;}
+header ul.dt-sc-social-icons li a.tencent-weibo{border-color:#b70400;}
 
-header ul.dt-sc-social-icons li a.youtube span{border-color:#b70400; background:#b70400;}
+header ul.dt-sc-social-icons li a.tencent-weibo span{border-color:#b70400; background:#b70400;}
 
-header ul.dt-sc-social-icons li a.twitter{border-color:#34b3d3;}
+header ul.dt-sc-social-icons li a.wechat{border-color:#34b3d3;}
 
-header ul.dt-sc-social-icons li a.twitter span{border-color:#34b3d3; background:#34b3d3;}
+header ul.dt-sc-social-icons li a.wechat span{border-color:#34b3d3; background:#34b3d3;}
 
-header ul.dt-sc-social-icons li a.gplus{border-color:#d53e2b;}
+header ul.dt-sc-social-icons li a.qq{border-color:#d53e2b;}
 
-header ul.dt-sc-social-icons li a.gplus span{border-color:#d53e2b; background:#d53e2b;}
+header ul.dt-sc-social-icons li a.qq span{border-color:#d53e2b; background:#d53e2b;}
 
 
 /*--------------------------------------------------------------
@@ -1304,7 +1304,7 @@ footer .dt-sc-contact-info span{font-size:18px; float:left; margin:2px 10px 0px 
 
 .copyright .footer-links ul li a,  .class_hours ul.dt-sc-social-icons li a{width:35px; height:35px; display:block; line-height:40px; text-align:center; padding:0px;}
 
-.copyright .footer-links ul li.facebook:hover a, .class_hours ul.dt-sc-social-icons li.facebook a{background:#3c5b9b;}
+.copyright .footer-links ul li.weibo:hover a, .class_hours ul.dt-sc-social-icons li.weibo a{background:#3c5b9b;}
 
 .copyright .footer-links ul li.twitter:hover a, .class_hours ul.dt-sc-social-icons li.twitter a{background:#2caae1;}
 

@@ -483,7 +483,7 @@
                             <li class="dt-sc-one-fourth column">
                                 <div class="product-thumb">
                                     <a href="/baoming.php">
-                                        <img src="http://placehold.it/510x716" alt="" title="">
+                                        <img src="images/g4_summer.jpg" alt="" title="">
                                     </a>  
                                     <div class="image-overlay">  
                                         <div class="product-button">

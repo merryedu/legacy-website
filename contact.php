@@ -25,8 +25,13 @@
             	<!--primary starts-->
             	<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=ZTnglUUopg2HSY2QAM7n9k4N"></script>
             	<section id="primary" class="content-full-width">
-				
+	            	<h4>仙林教学点</h4>
 					<div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map"></div>
+					
+					<div class="dt-sc-hr-medium"></div>
+					
+					<h4>虹桥教学点</h4>
+					<div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map2"></div>
                     
                     <div class="dt-sc-hr"> </div>
                     
@@ -103,7 +108,7 @@
     }
     function addMapOverlay(){
       var markers = [
-        {content:"我的备注",title:"明睿教育仙林教学点",imageOffset: {width:0,height:3},position:{lat:32.102643,lng:118.923381}}
+        {content:"仙林教学点，东方天郡",title:"明睿教育仙林教学点",imageOffset: {width:0,height:3},position:{lat:32.102643,lng:118.923381}}
       ];
       for(var index = 0; index < markers.length; index++ ){
         var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);
@@ -134,6 +139,63 @@
     }
     var map;
       initMap();
+  </script>
+  <script type="text/javascript">
+    //创建和初始化地图函数：
+    function initMap2(){
+      createMap2();//创建地图
+      setMapEvent2();//设置地图事件
+      addMapControl2();//向地图添加控件
+      addMapOverlay2();//向地图添加覆盖物
+    }
+    function createMap2(){ 
+      map2 = new BMap.Map("map2"); 
+      map2.centerAndZoom(new BMap.Point(118.773823,32.080412),18);
+    }
+    function setMapEvent2(){
+      map2.enableScrollWheelZoom();
+      map2.enableKeyboard();
+      map2.enableDragging();
+      map2.enableDoubleClickZoom()
+    }
+    function addClickHandler2(target,window){
+      target.addEventListener("click",function(){
+        target.openInfoWindow(window);
+      });
+    }
+    function addMapOverlay2(){
+      var markers = [
+        {content:"虹桥教学点，南京工业大学虹桥校区",title:"明睿教育虹桥教学点",imageOffset: {width:0,height:3},position:{lat:32.080404,lng:118.773769}}
+      ];
+      for(var index = 0; index < markers.length; index++ ){
+        var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);
+        var marker = new BMap.Marker(point,{icon:new BMap.Icon("http://api.map.baidu.com/lbsapi/createmap/images/icon.png",new BMap.Size(20,25),{
+          imageOffset: new BMap.Size(markers[index].imageOffset.width,markers[index].imageOffset.height)
+        })});
+        var label = new BMap.Label(markers[index].title,{offset: new BMap.Size(25,5)});
+        var opts = {
+          width: 200,
+          title: markers[index].title,
+          enableMessage: false
+        };
+        var infoWindow = new BMap.InfoWindow(markers[index].content,opts);
+        marker.setLabel(label);
+        addClickHandler2(marker,infoWindow);
+        map2.addOverlay(marker);
+      };
+    }
+    //向地图添加控件
+    function addMapControl2(){
+      var scaleControl = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+      scaleControl.setUnit(BMAP_UNIT_IMPERIAL);
+      map2.addControl(scaleControl);
+      var navControl = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+      map2.addControl(navControl);
+      var overviewControl = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:true});
+      map2.addControl(overviewControl);
+    }
+    var map2;
+      initMap2();
   </script>
                 <!--primary ends-->
             </div>

@@ -13,6 +13,7 @@
                                 <li> <a href=""> 幼升小能力与兴趣培养 </a> </li>
                                 <li> <a href=""> 一年级至二年级10人精品小班(快乐思维) </a> </li>
                                 <li> <a href=""> 三年级至六年级15人拓展与提高(思维+) </a> </li>
+                                <li> <a href=""> 三年级至六年级竞赛班(竞赛辅导资深教练授课, 150分钟) </a> </li>
                             </ul>
                         </aside>
                     </div>
@@ -91,7 +92,7 @@
         		<div class="container">
                 	<p class="copyright-info"> ©版权所有：明睿教育 Copy Right 2015 merryedu.com All Right Reserved. Design by <a href="https://github.com/merryedu" title=""> merryedu </a> 苏ICP备15002411号</p>
         			<div class="footer-links">
-                        <p>Follow us</p>
+                        <p>关注我们</p>
                         <ul class="dt-sc-social-icons">
                         	<li class="weibo"><a href="http://weibo.com/nanjingmerryedu"><i class="fa fa-weibo"></i></a></li>
                         	<li class="tencent-weibo"><a href="http://t.qq.com/merryedu"><i class="fa fa-tencent-weibo"></i></a></li>

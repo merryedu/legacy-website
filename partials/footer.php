@@ -91,7 +91,7 @@
         		<div class="container">
                 	<p class="copyright-info"> ©版权所有：明睿教育 Copy Right 2015 merryedu.com All Right Reserved. Design by <a href="https://github.com/merryedu" title=""> merryedu </a> 苏ICP备15002411号</p>
         			<div class="footer-links">
-                        <p>Follow us</p>
+                        <p>关注我们</p>
                         <ul class="dt-sc-social-icons">
                         	<li class="weibo"><a href="http://weibo.com/nanjingmerryedu"><i class="fa fa-weibo"></i></a></li>
                         	<li class="tencent-weibo"><a href="http://t.qq.com/merryedu"><i class="fa fa-tencent-weibo"></i></a></li>

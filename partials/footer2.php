@@ -47,6 +47,17 @@
                             </ul>
                         </aside>
                     </div>
+                    <div class="column dt-sc-one-fourth">
+                        <aside class="widget widget_text">
+                            <h3 class="widgettitle red_sketch"> 友情链接 </h3>
+                            <p> 邮件: wxy@merryedu.com </p>
+                            <ul>
+	                            <!--
+                                <li> <a href="http://mingworks.com/"> 明日工场 </a> </li>
+                                -->
+                            </ul>
+                        </aside>
+                    </div>
                     <!--
                     <div class="column dt-sc-one-fourth">
                         <aside class="widget tweetbox">

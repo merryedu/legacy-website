@@ -1,4 +1,6 @@
 <?php
+header("Content-type: text/html; charset=utf-8"); 
+
 /**
  * 在PHP 5.5.17 中测试通过。
  * 默认用通用接口(send)发送，若需使用模板接口(tpl_send),请自行将代码注释去掉。

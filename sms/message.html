@@ -10,13 +10,9 @@
             <th>参数名</th>
             <th align="left">参数值</th>
         </tr>
-        <tr style="visibility:hidden">
-            <td>apikey:</td>
-            <td><input name="apikey" type="text" id="apikey" size="40" value="36d9d929ea139247b8ef8727db2d26e7"></td>
-        </tr>
         <tr>
             <td>手机号:</td>
-            <td><input name="mobile" type="text" id="mobile" /></td>
+            <td><textarea name="mobile" cols="70" rows="2" id="mobile"></textarea></td>
         </tr>
         <tr>
             <td>短信内容:</td>
@@ -28,5 +24,27 @@
         </tr>
     </table>
 </form>
+
+<div>
+<span><a href="/sms/tpls.php">查询所有模板</span>
+</div>
+
+<form name="form2" action="/sms/add_tpl.php" method="post">
+    <table>
+        <tr>
+            <th>添加模板</th>
+            <th align="left">模板内容，必须以带符号【】的签名结尾. 例如: 您的验证码是#code#【明睿教育】</th>
+        </tr>
+        <tr>
+            <td>模板内容</td>
+            <td><input name="tpl_content" type="text" id="tpl_content" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" name="Submit" value="发送" /></td>
+        </tr>
+    </table>
+</form>
+
 </body>
 </html>

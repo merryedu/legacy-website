@@ -27,7 +27,7 @@
                  
                 	<h2 class="dt-sc-hr-green-title">下载学习资料</h2>
                     <div class="column dt-sc-one-half first">
-	                    <a href="#" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 明睿教育2015年春季二年级数学期末试卷(即将发布) <!--<span class="fa fa-download"> </span>--></a>
+	                    <a href="/download/2015年春季二年级数学期末试卷.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 明睿教育2015年春季二年级数学期末试卷 <span class="fa fa-download"> </span></a>
                     	
                         <div class="dt-sc-clear"></div>
                         <a href="/download/2015年春季三年级数学期末试卷.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 明睿教育2015年春季三年级数学期末试卷 <span class="fa fa-download"> </span></a>
@@ -41,11 +41,11 @@
                     </div>
                     
                     <div class="column dt-sc-one-half">
-	                    <a href="#" class="dt-sc-button small mustard">  <span class="fa fa-file-pdf-o"> 明睿教育2015年夏季二年级教材 (即将发布) <!--<span class="fa fa-download"> </span>--></a>
+	                     <a href="/2015年夏季二年级数学教材.pdf" class="dt-sc-button small mustard">  <span class="fa fa-file-pdf-o"> 明睿教育2015年夏季二年级数学教材<span class="fa fa-download"> </span></a>
                         <div class="dt-sc-clear"></div>
-                        <a href="#" class="dt-sc-button small mustard">  <span class="fa fa-file-pdf-o"> 明睿教育2015年夏季三年级教材 (即将发布) <!--<span class="fa fa-download"> </span>--></a>
+                        <a href="/2015年夏季三年级数学教材.pdf" class="dt-sc-button small mustard">  <span class="fa fa-file-pdf-o"> 明睿教育2015年夏季三年级数学教材<span class="fa fa-download"> </span></a>
                         <div class="dt-sc-clear"></div>
-                        <a href="#" class="dt-sc-button small mustard">  <span class="fa fa-file-pdf-o"> 明睿教育2015年夏季四年级教材 (即将发布) <!--<span class="fa fa-download"> </span>--></a>
+                        <a href="/2015年夏季四年级数学教材.pdf" class="dt-sc-button small mustard">  <span class="fa fa-file-pdf-o"> 明睿教育2015年夏季四年级数学教材<span class="fa fa-download"> </span></a>
                         <div class="dt-sc-clear"></div>
                         <a href="#" class="dt-sc-button small mustard">  <span class="fa fa-file-pdf-o"> 明睿教育2015年秋季二年级教材 (即将发布) <!--<span class="fa fa-download"> </span>--></a>
                         <div class="dt-sc-clear"></div>

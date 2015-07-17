@@ -4,7 +4,7 @@
             <div class="footer-widgets-wrapper">
                 <!--container starts-->
                 <div class="container">
-                    
+
                     <div class="column dt-sc-one-fourth first">
                         <aside class="widget widget_text">
                             <h3 class="widgettitle red_sketch"> 关于明睿教育 </h3>
@@ -25,9 +25,9 @@
                                 <li>
                                     <a href="/blog-detail.php">
                                         <img src="http://placehold.it/60x60" alt="" title="">
-                                    </a>    
+                                    </a>
                                     <h6><a href="/blog-detail.php"> 每个优秀孩子背后都有一个用心的家长 </a></h6>
-                                    <span> 8月 27, 2014 </span>       
+                                    <span> 8月 27, 2014 </span>
                                 </li>
                                 <!--
                                 <li>
@@ -35,14 +35,14 @@
                                         <img src="http://placehold.it/60x60" alt="" title="">
                                     </a>
                                     <h6><a href=""> Amazing post with all  goodies </a></h6>
-                                    <span> March 23, 2014 </span> 
+                                    <span> March 23, 2014 </span>
                                 </li>
                                 <li>
                                     <a href="">
                                         <img src="http://placehold.it/60x60" alt="" title="">
                                     </a>
                                     <h6><a href=""> Amazing post with all  goodies </a></h6>
-                                    <span> March 23, 2014 </span> 
+                                    <span> March 23, 2014 </span>
                                 </li>
                                 -->
                             </ul>
@@ -51,10 +51,9 @@
                     <div class="column dt-sc-one-fourth">
                         <aside class="widget widget_text">
                             <h3 class="widgettitle red_sketch"> 友情链接 </h3>
+                            <p> 邮件: wxy@merryedu.com </p>
                             <ul>
-	                            <!--
-                                <li> <a href="http://mingworks.com/"> 明日工场 </a> </li>
-                                -->
+                                <li> <a href="http://talk.mingxiaoji.com//"> 校集社区 </a> </li>
                             </ul>
                         </aside>
                     </div>
@@ -85,19 +84,19 @@
                             <form name="frmnewsletter" class="mailchimp-form" action="php/subscribe.php" method="post">
                                 <p>
                                     <span class="fa fa-envelope-o"> </span>
-                                    <input type="email" placeholder="邮箱地址" name="mc_email" required />	
-                                </p>	
+                                    <input type="email" placeholder="邮箱地址" name="mc_email" required />
+                                </p>
                                 <input type="submit" value="订阅" class="button" name="btnsubscribe">
                             </form>
                             <div id="ajax_subscribe_msg"></div>
                             -->
                         </aside>
                     </div>
-                    
-                </div>    
+
+                </div>
                 <!--container ends-->
             </div>
-            <!--footer-widgets-wrapper ends-->  
+            <!--footer-widgets-wrapper ends-->
             <div class="copyright">
         		<div class="container">
                 	<p class="copyright-info"> ©版权所有：明睿教育 Copy Right 2015 merryedu.com All Right Reserved. Design by <a href="https://github.com/merryedu" title=""> merryedu </a> 苏ICP备15002411号</p>
@@ -111,10 +110,10 @@
                         </ul>
                     </div>
         		</div>
-        	</div>  
+        	</div>
         </footer>
         <!--footer ends-->
-        
+
     </div>
     <!--wrapper ends-->
     <a href="" title="返回顶部" class="back-to-top">返回顶部 ↑</a>
@@ -125,7 +124,7 @@
     <script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/jquery-migrate.min.js"></script>
 
-    
+
 	<script type="text/javascript" src="js/jquery.tabs.min.js"></script>
 	<script type="text/javascript" src="js/jquery.validate.min.js"></script>
 	<script type="text/javascript" src="js/jquery-easing-1.3.js"></script>
@@ -134,12 +133,12 @@
     <script type="text/javascript" src="js/jquery.inview.js"></script>
 
     <script type="text/javascript" src="js/jquery.viewport.js"></script>
-    
+
     <script type="text/javascript" src="js/validation.js"></script>
-    <script type="text/javascript" src="js/jquery.tipTip.minified.js"></script> 
-    <script type="text/javascript" src="js/twitter/jquery.tweet.min.js"></script> 
-    <script type="text/javascript" src="js/shortcodes.js"></script>      
+    <script type="text/javascript" src="js/jquery.tipTip.minified.js"></script>
+    <script type="text/javascript" src="js/twitter/jquery.tweet.min.js"></script>
+    <script type="text/javascript" src="js/shortcodes.js"></script>
     <script type="text/javascript" src="js/custom.js"></script>
-    
+
 </body>
 </html>

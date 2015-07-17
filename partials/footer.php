@@ -53,7 +53,7 @@
                             <h3 class="widgettitle red_sketch"> 友情链接 </h3>
                             <p> 邮件: wxy@merryedu.com </p>
                             <ul>
-                                <li> <a href="http://talk.mingxiaoji.com//"> 校集社区 </a> </li>
+                                <li> <a href="http://talk.mingxiaoji.com//"> 名校集社区 </a> </li>
                             </ul>
                         </aside>
                     </div>

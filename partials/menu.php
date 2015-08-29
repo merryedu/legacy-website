@@ -10,9 +10,9 @@
                         <span class="fa fa-envelope"></span>
 					</p>
                     <p class="phone-no">
-                        <i>13951822908</i>
+                        <i>15850730464</i>
                         <span class="fa fa-phone"></span>
-                	</p>        
+                	</p>
                 </div>
             </div>
             <!--menu-container starts-->
@@ -22,24 +22,24 @@
                     <nav id="main-menu">
                     	<div class="dt-menu-toggle" id="dt-menu-toggle">菜单<span class="dt-menu-toggle-icon"></span></div>
                         <ul id="menu-main-menu" class="menu">
-                            <li class="<?php if ($page=='home') { echo('current_page_item') ; } ?> menu-item-simple-parent menu-item-depth-0 red"> <a href="index.php"> 主页 </a> 
+                            <li class="<?php if ($page=='home') { echo('current_page_item') ; } ?> menu-item-simple-parent menu-item-depth-0 red"> <a href="index.php"> 主页 </a>
                             <!--
                                 <ul class="sub-menu">
                                     <li> <a href="#"> Submenu Level I </a> </li>
                                     <li> <a href="#"> Submenu Level I </a>  </li>
                                     <li> <a href="#"> Submenu Level I </a> </li>
                                     <li> <a href="#"> Submenu Level I </a> </li>
-                                    <li> <a href="#"> Submenu Level I </a> 
+                                    <li> <a href="#"> Submenu Level I </a>
                                         <ul class="sub-menu">
                                             <li> <a href="#"> Submenu Level II </a> </li>
                                             <li> <a href="#"> Submenu Level II </a> </li>
                                             <li> <a href="#"> Submenu Level II </a>  </li>
-                                        </ul>   
-                                        <a class="dt-menu-expand">+</a>                             
+                                        </ul>
+                                        <a class="dt-menu-expand">+</a>
                                     </li>
-                                </ul>  
+                                </ul>
                                 <a class="dt-menu-expand">+</a>
-                            -->                      
+                            -->
                             </li>
                             <li class="<?php if ($page=='about') { echo('current_page_item') ; } ?> mustard"> <a href="about.php"> 关于我们 </a> </li>
 							<li class="<?php if ($page=='baoming') { echo('current_page_item') ; } ?> mustard"> <a href="baoming.php"> 新生报名 </a> </li>
@@ -59,9 +59,9 @@
                                 </ul>
                                 <a class="dt-menu-expand">+</a>
                             </li>
-                            
-                            <li class="<?php if ($page=='pages') { echo('current_page_item') ; } ?> menu-item-megamenu-parent megamenu-4-columns-group menu-item-depth-0 steelblue"> <a href="#" title=""> Pages </a> 
-                            
+
+                            <li class="<?php if ($page=='pages') { echo('current_page_item') ; } ?> menu-item-megamenu-parent megamenu-4-columns-group menu-item-depth-0 steelblue"> <a href="#" title=""> Pages </a>
+
                                 <div class="megamenu-child-container">
                                     <ul class="sub-menu">
                                         <li> <a href="#">Useful Shortcodes</a>
@@ -76,7 +76,7 @@
                                                 <li><a href="quotes.php" title="">Quotes</a></li>
                                     			<li><a href="tabs-toggles.php" title="">Tabs &amp; Toggles</a></li>
                                             </ul>
-                                            <a class="dt-menu-expand">+</a> 
+                                            <a class="dt-menu-expand">+</a>
                                         </li>
                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1 menu-item-with-widget-area">
                                             <a href="#">热门课程</a>
@@ -147,7 +147,7 @@
                                                         </div>
                                                     </li>
                                                 </ul>
-                                                
+
                                             </div>
                                         </li>
                                     </ul>

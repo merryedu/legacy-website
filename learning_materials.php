@@ -31,6 +31,10 @@
                     	
                         <div class="dt-sc-clear"></div>
                         <a href="/download/2015年春季三年级数学期末试卷.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 明睿教育2015年春季三年级数学期末试卷 <span class="fa fa-download"> </span></a>
+                        <div class="dt-sc-clear"></div>
+                        <a href="/download/2014仙外三年级期初真题.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2014仙外三年级期初真题 <span class="fa fa-download"> </span></a>
+                        <div class="dt-sc-clear"></div>
+                        <a href="/download/2014仙外四年级期初真题.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2014仙外四年级期初真题 <span class="fa fa-download"> </span></a>
                         <!--
                         <a href="#" class="dt-sc-button medium"> Medium Button <span class="fa fa-chevron-circle-right"> </span></a>
                         <div class="dt-sc-clear"></div>

@@ -10,7 +10,7 @@
                         <span class="fa fa-envelope"></span>
 					</p>
                     <p class="phone-no">
-                        <i>15850730464</i>
+                        <i>131-828-12306</i>
                         <span class="fa fa-phone"></span>
                 	</p>
                 </div>

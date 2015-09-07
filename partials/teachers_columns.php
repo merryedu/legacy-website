@@ -1,6 +1,6 @@
                     <h2 class="dt-sc-hr-green-title">我们的教师</h2>
                     <div class="column dt-sc-one-fourth first">
-                        <div class="dt-sc-team">	
+                        <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
                                 <img src="images/cm.png" alt="" title="丛明">
@@ -17,7 +17,7 @@
                         </div>
                     </div>
                     <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">	
+                        <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
                                 <img src="images/syc.png" alt="" title="孙宇宸">
@@ -34,7 +34,7 @@
                         </div>
                     </div>
                     <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">	
+                        <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
                                 <img src="images/csq.png" alt="" title="曹上青">
@@ -51,7 +51,7 @@
                         </div>
                     </div>
                     <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">	
+                        <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
                                 <img src="http://placehold.it/381x331" alt="" title="">
@@ -61,7 +61,7 @@
                                 </div>
                             </div>
                             <div class="team-details">
-                                <h4> 马老师 </h4>
+                                <h4> 王老师 </h4>
                                 <h6> 咨询、管理 </h6>
                                 <p> 学会关心，学会创造，全面发展，展露才华。数学的学习不是死记硬背，而是要靠理解和体悟。良好的数学学习习惯可以使数学学习变得更加轻松容易。 </p>
                             </div>

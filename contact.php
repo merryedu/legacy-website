@@ -2,7 +2,7 @@
 <body>
 	<!--wrapper starts-->
     <div class="wrapper">
-        	    <?php 
+        	    <?php
 		$page = 'contact';
 		?>
         <?php include( "partials/menu.php" ); ?>
@@ -27,14 +27,14 @@
             	<section id="primary" class="content-full-width">
 	            	<h4>仙林教学点</h4>
 					<div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map"></div>
-					
+
 					<div class="dt-sc-hr-medium"></div>
-					
-					<h4>虹桥教学点</h4>
+
+					<h4>大行宫教学点</h4>
 					<div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map2"></div>
-                    
+
                     <div class="dt-sc-hr"> </div>
-                    
+
                     <!--dt-sc-two-third starts-->
                     <div class="column dt-sc-three-fourth first contact_form_outer">
                         <form name="frcontact" class="contact-form" method="post" action="php/contactmail.php">
@@ -58,7 +58,7 @@
                         </form>
                     </div>
                     <!--dt-sc-two-third ends-->
-                    
+
                     <!--dt-sc-one-third starts-->
                     <div class="column dt-sc-one-fourth class_hours">
                     	<h2>春季课程时间</h2>
@@ -68,7 +68,7 @@
                             <li>星期三<span>暂无</span></li>
                             <li>星期四<span>暂无</span></li>
                             <li>星期五<span>仙林(4:00pm - 6:00pm), 仙林(6:30pm - 8:00pm)</span></li>
-                            <li>星期六<span>虹桥(10:00am - 8:30pm)</span></li>
+                            <li>星期六<span>大行宫(10:00am - 8:30pm)</span></li>
                             <li>星期日<span>仙林(1:00pm - 3:00pm)</span></li>
                         </ul>
                         <div class="dt-sc-hr-small"></div>
@@ -81,7 +81,7 @@
                         </ul>
                     </div>
                     <!--dt-sc-one-third ends-->
-                    
+
                 </section>
 <script type="text/javascript">
     //创建和初始化地图函数：
@@ -91,8 +91,8 @@
       addMapControl();//向地图添加控件
       addMapOverlay();//向地图添加覆盖物
     }
-    function createMap(){ 
-      map = new BMap.Map("map"); 
+    function createMap(){
+      map = new BMap.Map("map");
       map.centerAndZoom(new BMap.Point(118.923291,32.101833),16);
     }
     function setMapEvent(){
@@ -148,9 +148,9 @@
       addMapControl2();//向地图添加控件
       addMapOverlay2();//向地图添加覆盖物
     }
-    function createMap2(){ 
-      map2 = new BMap.Map("map2"); 
-      map2.centerAndZoom(new BMap.Point(118.773823,32.080412),18);
+    function createMap2(){
+      map2 = new BMap.Map("map2");
+      map2.centerAndZoom(new BMap.Point(118.79971,32.046751),18);
     }
     function setMapEvent2(){
       map2.enableScrollWheelZoom();
@@ -165,7 +165,7 @@
     }
     function addMapOverlay2(){
       var markers = [
-        {content:"虹桥教学点，南京工业大学虹桥校区",title:"明睿教育虹桥教学点",imageOffset: {width:0,height:3},position:{lat:32.080404,lng:118.773769}}
+        {content:"大行宫教学点，中山东路198号龙台国际大厦12楼",title:"明睿教育大行宫教学点",imageOffset: {width:0,height:3},position:{lat:32.080404,lng:118.773769}}
       ];
       for(var index = 0; index < markers.length; index++ ){
         var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);
@@ -202,6 +202,6 @@
             <!--container ends-->
         </div>
         <!--main ends-->
-        
+
         <!--footer starts-->
 <?php include( "partials/footer.php" ); ?>

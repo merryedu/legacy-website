@@ -165,7 +165,7 @@
     }
     function addMapOverlay2(){
       var markers = [
-        {content:"大行宫教学点，中山东路198号龙台国际大厦12楼",title:"明睿教育大行宫教学点",imageOffset: {width:0,height:3},position:{lat:32.080404,lng:118.773769}}
+        {content:"大行宫教学点，中山东路198号龙台国际大厦12楼",title:"明睿教育大行宫教学点",imageOffset: {width:0,height:3},position:{lat:32.046751,lng:118.79971}}
       ];
       for(var index = 0; index < markers.length; index++ ){
         var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);

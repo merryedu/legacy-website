@@ -69,9 +69,9 @@
                         <h3 class="widgettitle steelblue_sketch">联系方式</h3>
                             <div class="textwidget">
                                 <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 南京仙林大学城 <br> 东方天郡 </p>
-                                <p class="dt-sc-contact-info"><span class="fa fa-phone"></span> (+86) 13951822908 </p>
-                                <p class="dt-sc-contact-info"><span class="fa fa-envelope"></span><a href="mailto:yourname@somemail.com"> wxy@merryedu.com </a></p>
-                                <p class="dt-sc-contact-info"><span class="fa fa-qq"></span> QQ号: 35546672 </a></p>
+                                <p class="dt-sc-contact-info"><span class="fa fa-phone"></span> (+86) 131-828-12306 </p>
+                                <p class="dt-sc-contact-info"><span class="fa fa-envelope"></span><a href="mailto:wxy@merryedu.com"> wxy@merryedu.com </a></p>
+                                <p class="dt-sc-contact-info"><span class="fa fa-qq"></span> QQ号: 2848540164 </a></p>
                             </div>
                         </aside>
                         <aside class="widget mailchimp">

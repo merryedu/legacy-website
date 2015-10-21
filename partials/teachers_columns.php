@@ -54,6 +54,93 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/zmq.jpg" alt="" title="张敏勤">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 张老师 </h4>
+                                <h6> 明睿数学名师、教研 </h6>
+                                <p> 来自东南大学热力专业的理科系软妹纸一枚，人萌课萌，能用萌萌搭，温柔柔的方式给孩子教授数学。喜欢孩子，擅长与孩子互动，带着南方姑娘的亲切和善，上课时娓娓道来，坚持授之以鱼不如授之以渔，用着自己独特的方式引领着“萌数学”的风格。 </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="dt-sc-hr"></div>
+                    <div class="column dt-sc-one-fourth first">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/gs.png" alt="" title="高爽">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 高老师 </h4>
+                                <h6> 明睿幼升小，低年级数学名师 </h6>
+                                <p> 来自南京师范大学，带着东北妹子的爽朗性格与良好口才，最擅长的事情就是与孩子相处，能带来活跃、快乐的课堂气氛。能随时随地化身“小朋友”，用孩子最喜欢、最能理解的方式讲述数学知识，是最可爱最能嗨翻课堂的女老师，是爱笑爱自拍爱和孩子交流的女汉子。 </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/tyw.jpg" alt="" title="陶雨薇">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 陶老师 </h4>
+                                <h6> 明睿高年级数学名师 </h6>
+                                <p> 来自南京大学，是淮左名都扬州的一名净身高一米七的“高”冷女生。不仅有着居高临下的身高，还有着居高临下的数学成绩，在“恐怖”的江苏数学小升初、中考、高考中（143+34）均考出接近满分的傲人成绩。解题时一秒高冷，思路清晰方法严谨；讲题时深入浅出，能用简洁明了的方式让孩子理解数学道理，培养良好习惯。调皮的孩子，敢不敢来感受一下“高冷”陶老师的风格？ </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/xzy.jpg" alt="" title="席志远">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 席老师 </h4>
+                                <h6> 明睿高年级数学名师 </h6>
+                                <p> 来自南京大学理工院系、有着三年数学教学经验的温柔男生，呆萌、幽默、犀利、清晰多种矛盾因素集于一身，既能化身冷静理科男给孩子讲述数学道理，又能变成欢脱大男孩与孩子一起探讨数学问题，帮助过许多孩子在数学上获得巨大进步，想对多重风格了解更多，请紧盯席老师回眸一笑时真诚的眼睛。 </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/wtt.png" alt="" title="曹上青">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 王彤彤 </h4>
+                                <h6> 明睿教研小组成员 </h6>
+                                <p> 来自南京大学数学系基础数学专业，热爱数学并且乐于将知识传授给学生，善于总结数学解题中的方法和规律，善于与学生进行交流，充分发掘学生的潜能，使学生从被动接受的“要我学”转化为主动的“我要学”，变“学会”为“会学”，让学生学数学是一件快乐的事，并且工作认真、负责。曾多次参加江苏省高考阅卷与奥数阅卷工作，对应试、得分技巧比较了解。</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="dt-sc-hr"></div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
                                 <img src="http://placehold.it/381x331" alt="" title="">
                                 <div class="dt-sc-image-overlay">
                                 	<a href="#" class="link"><span class="fa fa-link"></span></a>

@@ -71,8 +71,9 @@
                             <div class="textwidget">
                               <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 南京仙林大学城杉湖西路8号东方天郡西区23栋1单元103</p>
                               <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 中山东路198号龙台国际大厦12楼1215室</p>
-                                <p class="dt-sc-contact-info"><span class="fa fa-phone"></span> (+86) 131-828-12306 </p>
-                                <p class="dt-sc-contact-info"><span class="fa fa-envelope"></span><a href="mailto:yourname@somemail.com"> wxy@merryedu.com </a></p>
+                              <p class="dt-sc-contact-info"><span class="fa fa-phone"></span> (+86) 131-828-12306 </p>
+                              <p class="dt-sc-contact-info"><span class="fa fa-envelope"></span><a href="mailto:wxy@merryedu.com"> wxy@merryedu.com </a></p>
+                              <p class="dt-sc-contact-info"><span class="fa fa-qq"></span> QQ号: 764705242 </a></p>
                             </div>
                         </aside>
                         <aside class="widget mailchimp">

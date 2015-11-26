@@ -72,7 +72,7 @@
                                 <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 中山东路198号龙台国际大厦12楼1215室</p>
                                 <p class="dt-sc-contact-info"><span class="fa fa-phone"></span> (+86) 131-828-12306 </p>
                                 <p class="dt-sc-contact-info"><span class="fa fa-envelope"></span><a href="mailto:wxy@merryedu.com"> wxy@merryedu.com </a></p>
-                                <p class="dt-sc-contact-info"><span class="fa fa-qq"></span> QQ号: 2848540164 </a></p>
+                                <p class="dt-sc-contact-info"><span class="fa fa-qq"></span> QQ号: 764705242 </a></p>
                             </div>
                         </aside>
                         <aside class="widget mailchimp">

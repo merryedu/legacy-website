@@ -37,6 +37,12 @@
                         <a href="/download/2014仙外四年级期初真题.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2014仙外四年级期初真题 <span class="fa fa-download"> </span></a>
                         <div class="dt-sc-clear"></div>
                         <a href="/download/2014希望杯四年级第一试真题.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2014希望杯四年级第一试真题 <span class="fa fa-download"> </span></a>
+                        <div class="dt-sc-clear"></div>
+                        <a href="/download/2015秋季二年级期末考试.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2015秋季二年级期末考试 <span class="fa fa-download"> </span></a>
+                        <a href="/download/2015秋季三年级期末考试A.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2015秋季三年级期末考试A <span class="fa fa-download"> </span></a>
+                        <a href="/download/2015秋季三年级期末考试B.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2015秋季三年级期末考试B <span class="fa fa-download"> </span></a>
+                        <a href="/download/2015秋季四年级期末考试A.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2015秋季四年级期末考试A <span class="fa fa-download"> </span></a>
+                        <a href="/download/2015秋季四年级期末考试B.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2015秋季四年级期末考试B <span class="fa fa-download"> </span></a>
                         <!--
                         <a href="#" class="dt-sc-button medium"> Medium Button <span class="fa fa-chevron-circle-right"> </span></a>
                         <div class="dt-sc-clear"></div>

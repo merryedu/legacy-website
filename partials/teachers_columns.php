@@ -37,16 +37,16 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/syc.png" alt="" title="孙宇宸">
+                                <img src="images/xzy.jpg" alt="" title="席志远">
                                 <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
                                     <a href="#" class="zoom"><span class="fa fa-search"></span></a>
                                 </div>
                             </div>
                             <div class="team-details">
-                                <h4> 孙宇宸老师 </h4>
-                                <h6> 明睿数学名师 </h6>
-                                <p> 毕业于南京大学。高中时发表关于比赛中不定方程论文《不定方程: p^n+q^n=q^-(n-2)r^2》获得丘成桐数学竞赛南部赛区二等奖；2010年全国高中数学联赛一等奖；安徽省第四名进入省队；并保送南京大学。南京大学医学和经济学双学位。对数学有独到的见解，并常常用数学模型解决各种社会中得现象，善于用例子引导学生。坚持将抽象的概念形象化、具体化，使学生在实例中加深对概念的理解，并了解各种神奇高端的解决方法。兴趣广泛，热爱探索。 </p>
+                                <h4> 席志远老师 </h4>
+                                <h6> 明睿高年级数学名师 </h6>
+                                <p> 来自南京大学理工院系、有着三年数学教学经验的温柔男生，呆萌、幽默、犀利、清晰多种矛盾因素集于一身，既能化身冷静理科男给孩子讲述数学道理，又能变成欢脱大男孩与孩子一起探讨数学问题，帮助过许多孩子在数学上获得巨大进步，想对多重风格了解更多，请紧盯席老师回眸一笑时真诚的眼睛。 </p>
                             </div>
                         </div>
                     </div>
@@ -119,24 +119,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/xzy.jpg" alt="" title="席志远">
-                                <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 席志远老师 </h4>
-                                <h6> 明睿高年级数学名师 </h6>
-                                <p> 来自南京大学理工院系、有着三年数学教学经验的温柔男生，呆萌、幽默、犀利、清晰多种矛盾因素集于一身，既能化身冷静理科男给孩子讲述数学道理，又能变成欢脱大男孩与孩子一起探讨数学问题，帮助过许多孩子在数学上获得巨大进步，想对多重风格了解更多，请紧盯席老师回眸一笑时真诚的眼睛。 </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="dt-sc-hr"></div>
                     <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
                             <div class="image">
@@ -154,7 +136,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="column dt-sc-one-fourth">
+                    <div class="dt-sc-hr"></div>
+                    <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">

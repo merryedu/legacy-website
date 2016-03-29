@@ -120,7 +120,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="column dt-sc-one-fourth first">
+                    <div class="column dt-sc-one-fourth">
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
@@ -139,6 +139,27 @@
                     </div>
                     <div class="dt-sc-hr"></div>
                     <div class="column dt-sc-one-fourth first">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/gj.jpg" alt="" title="郭婧">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 郭婧老师 </h4>
+                                <h6> 明睿数学名师 </h6>
+                                <p> 毕业于南京大学，保送南京大学硕士。具有三年小学奥数培训经历。一直以来数学成绩优异，中高考数学成绩几近满分，曾获全国高中数学联赛省二等奖，国家三等奖等。爱笑、爱孩子，极具亲和力，如邻家姐姐般深受孩子喜爱。本着对每一个孩子负责的原则，以孩子为主体，激发孩子学习的兴趣，培养其独立思考的能力。授课风格严谨又不失幽默，寓教于乐，让孩子们享受学习的快乐。教学心得：
+学习数学不是死记硬背，套用公式，只有寓教于乐，让孩子们享受快乐学习的过程，才能让孩子主动探索多彩的数学世界。授课风格：
+极具亲和力，将数学知识和孩子们生活中可接触的事物相结合，方便孩子理解。注重逻辑性，以孩子为课堂主体，调动每一个孩子积极性，培养其独立思考的能力。教师寄语：
+数学的世界不分先后，只要你用心、专心、细心，定能发现独一无二的风景！
+ </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">

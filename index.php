@@ -212,7 +212,7 @@
                                 <ul class="add-slider">
                                     <li> <img src="images/merry_qrcode.jpg" alt="关注公众号" title="关注公众号"> </li>
                                     <li> <img src="images/cardintro.jpg" alt="卡片介绍" title="卡片介绍"> </li>
-                                    <li> <img src="images/tables" alt="明亮的教室" title="明亮的教室"> </li>
+                                    <li> <img src="images/tables.jpg" alt="明亮的教室" title="明亮的教室"> </li>
                                 </ul>
                             </div>
                         </div>

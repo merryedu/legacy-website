@@ -2,11 +2,11 @@
 <!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
 <!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
 <!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> 
+<!--[if (gt IE 9)|!(IE)]><!-->
 <html lang="en-gb" class="no-js"> <!--<![endif]-->
 <head>
 <meta http-equiv="content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <title>明睿教育-MerryEdu</title>
 <meta name="description" content="明睿教育是南京一家专注于小学K12培优的教育机构">
 <meta name="author" content="merryedu">
@@ -35,7 +35,7 @@
 <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link href="css/shortcodes.css" rel="stylesheet" type="text/css">
 <!--prettyPhoto-->
-<link href="css/prettyPhoto.css" rel="stylesheet" type="text/css" media="all" />   
+<link href="css/prettyPhoto.css" rel="stylesheet" type="text/css" media="all" />
 <!--[if IE 7]>
 <link href="css/font-awesome-ie7.css" rel="stylesheet" type="text/css">
 <![endif]-->
@@ -43,9 +43,9 @@
 <script src="js/html5.js"></script>
 <![endif]-->
 <!--Fonts-->
-<link href='http://fonts.useso.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
+<!--<link href='http://fonts.useso.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.useso.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-<link href='http://fonts.useso.com/css?family=Bubblegum+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.useso.com/css?family=Bubblegum+Sans' rel='stylesheet' type='text/css'>-->
 <!--jquery-->
 <script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>
 </head>

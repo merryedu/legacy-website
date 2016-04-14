@@ -2,7 +2,7 @@
 <body class="main">
 	<!--wrapper starts-->
     <div class="wrapper">
-        <?php 
+        <?php
 			$page = 'services';
 		?>
         <?php include( "partials/menu.php" ); ?>
@@ -19,8 +19,8 @@
             <section id="primary" class="content-full-width">
                 <!--container starts-->
                 <div class="container">
-                	<h2 class="dt-sc-hr-green-title">课程概览</h2> 
-                    
+                	<h2 class="dt-sc-hr-green-title">课程概览</h2>
+
                     <!--dt-sc-one-half starts-->
                     <div class="dt-sc-one-half column first">
                         <div class="dt-sc-toggle-frame-set">
@@ -51,9 +51,9 @@
                     	</div>
                     </div>
                     <!--dt-sc-one-half ends-->
-                    
+
                     <!--dt-sc-one-half starts-->
-                    <div class="column dt-sc-one-half">                  
+                    <div class="column dt-sc-one-half">
                         <div class="dt-sc-toggle-frame-set course">
                             <h5 class="dt-sc-toggle-accordion "><a href="#">优秀的教研内容</a></h5>
                             <div class="dt-sc-toggle-content">
@@ -74,21 +74,47 @@
                                 </div>
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <!--dt-sc-one-half ends-->
-                       
+
                 </div>
                 <!--container ends-->
                 <div class="dt-sc-hr"></div>
-                
+
+                <div class="container">
+                <h2 class="dt-sc-hr-green-title">2016年明睿数学课程明细</h2>
+
+                <div class="column dt-sc-one-third first">
+                    <ul class="dt-sc-fancy-list mustard smile">
+                        <li>2016春季一年级课程安排</li>
+                        <li>2016春季二年级课程安排</li>
+                        <li>2016春季三年级课程安排</li>
+                        <li>2016春季四年级课程安排</li>
+                    </ul>
+                </div>
+
+                <div class="column dt-sc-one-third">
+                    <ul class="dt-sc-fancy-list pink star">
+                        <li>2016暑秋新一年级课程安排</li>
+                        <li>2016暑秋新二年级课程安排</li>
+                        <li>2016暑秋新三年级课程安排</li>
+                        <li>2016暑秋新四年级课程安排</li>
+                        <li>2016暑秋新五年级课程安排</li>
+                    </ul>
+                </div>
+
+                </div>
+                <!--container ends-->
+                <div class="dt-sc-hr"></div>
+
                 <!--?php include( "partials/events.php" ); ?-->
-                
-                <div class="dt-sc-hr"></div>  
+
+                <div class="dt-sc-hr"></div>
                     <!--fullwidth-background starts-->
                     <section class="fullwidth-background turquoise-plain-bg">
                         <!--container starts-->
-                        <div class="container"> 
-                        	<h2 class="dt-sc-hr-white-title">Admission Form</h2> 
+                        <div class="container">
+                        	<h2 class="dt-sc-hr-white-title">Admission Form</h2>
                             <form method="post" action="php/admissionmail.php" id="admissionform" name="admissionform" class="admission-form">
                                 <p class="dt-sc-one-third column first">
                                     <input id="name" name="txtname" type="text" placeholder="Name" required="">
@@ -110,11 +136,11 @@
                         </div>
                         <!--container ends-->
                     </section>
-                    <!--fullwidth-background ends--> 
+                    <!--fullwidth-background ends-->
             </section>
             <!--primary ends-->
         </div>
         <!--main ends-->
-        
+
         <!--footer starts-->
 <?php include( "partials/footer.php" ); ?>

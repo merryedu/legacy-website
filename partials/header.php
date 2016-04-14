@@ -7,7 +7,7 @@
 <head>
 <meta http-equiv="content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<title>明睿教育-MerryEdu</title>
+<title>明睿教育-MerryMath</title>
 <meta name="description" content="明睿教育是南京一家专注于小学K12培优的教育机构">
 <meta name="author" content="merryedu">
 <!-- Fav and touch icons -->

@@ -11,7 +11,7 @@
         	<!--fullwidth_banner starts-->
             <section class="fullwidth_banner">
             	<div class="container">
-	            	<h1>Math Class</h1>
+	            	<h1>从明睿开始爱上数学</h1>
                 </div>
             </section>
             <!--fullwidth_banner ends-->
@@ -114,28 +114,33 @@
                     <section class="fullwidth-background turquoise-plain-bg">
                         <!--container starts-->
                         <div class="container">
-                        	<h2 class="dt-sc-hr-white-title">Admission Form</h2>
+                          <script src="https://jinshuju.net/f/IU4oj9/embedded.js?banner=show&background=white&height=678"></script>
+                          <!--
+                        	<h2 class="dt-sc-hr-white-title">家长反馈</h2>
                             <form method="post" action="php/admissionmail.php" id="admissionform" name="admissionform" class="admission-form">
                                 <p class="dt-sc-one-third column first">
-                                    <input id="name" name="txtname" type="text" placeholder="Name" required="">
+                                    <input id="name" name="txtname" type="text" placeholder="姓名" required="">
                                 </p>
                                 <p class="dt-sc-one-third column">
-                                    <input id="age" name="txtage" type="text" placeholder="Age" required="">
+                                    <input id="grade" name="txtgrade" type="text" placeholder="年级" required="">
                                 </p>
                                 <p class="dt-sc-one-third column">
-                                    <input id="course" name="txtcourse" type="text" placeholder="Course" required="">
+                                    <input id="teacher" name="txtteacher" type="text" placeholder="老师" required="">
                                 </p>
                                 <p>
-                                	<textarea id="admission" name="txtmessage" placeholder="Message"></textarea>
+                                	<textarea id="admission" name="txtmessage" placeholder="消息"></textarea>
                                 </p>
                                 <div id="ajax_admission_msg"> </div>
                                 <p class="aligncenter">
-                                    <input name="submit" type="submit" id="submit" value="Submit Form">
+                                    <input name="submit" type="submit" id="submit" value="提交">
                                 </p>
                             </form>
+                            -->
                         </div>
+
                         <!--container ends-->
                     </section>
+
                     <!--fullwidth-background ends-->
             </section>
             <!--primary ends-->

@@ -87,7 +87,7 @@
                 <div class="column dt-sc-one-third first">
                     <ul class="dt-sc-fancy-list mustard smile">
                         <li>2016春季一年级课程安排</li>
-                        <li>2016春季二年级课程安排</li>
+                        <li><a href="/doc/2016_2_spring_web.htm">2016春季二年级课程安排</a></li>
                         <li>2016春季三年级课程安排</li>
                         <li>2016春季四年级课程安排</li>
                     </ul>

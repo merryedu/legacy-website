@@ -1,4 +1,4 @@
-<?php include( "partials/header.php" ); ?>
+<?php include( "partials/header_courses.php" ); ?>
 <body class="main">
 	<!--wrapper starts-->
     <div class="wrapper">
@@ -82,7 +82,7 @@
                 <div class="dt-sc-hr"></div>
 
                 <div class="container">
-                <h2 class="dt-sc-hr-green-title">2016年明睿数学课程明细</h2>
+                <h2 class="dt-sc-hr-green-title">2016年明睿数学课程</h2>
 
                 <div class="column dt-sc-one-third first">
                     <ul class="dt-sc-fancy-list mustard smile">

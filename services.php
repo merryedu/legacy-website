@@ -97,9 +97,9 @@
                     <ul class="dt-sc-fancy-list pink star">
                         <li>2016暑秋新一年级课程安排</li>
                         <li><a href="/doc/2016_new_grade_2_summer_courses.htm">2016暑秋新二年级课程安排</a></li>
-                        <li>2016暑秋新三年级课程安排</li>
-                        <li>2016暑秋新四年级课程安排</li>
-                        <li>2016暑秋新五年级课程安排</li>
+                        <li><a href="/doc/2016_new_grade_3_summer_courses.htm">2016暑秋新三年级课程安排</a></li>
+                        <li><a href="/doc/2016_new_grade_4_summer_courses.htm">2016暑秋新四年级课程安排</a></li>
+                        <li><a href="/doc/2016_new_grade_5_summer_courses.htm">2016暑秋新五年级课程安排</a></li>
                     </ul>
                 </div>
 

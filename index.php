@@ -210,7 +210,7 @@
                             <h2>明睿教育, 小朋友和家长的睿智选择!</h2>
                             <div class="add-slider-wrapper">
                                 <ul class="add-slider">
-                                    <li> <img src="images/qrcode_for_mingsiwei15.jpg" alt="关注明思维公众号" title="关注明思维公众号"> </li>
+                                    <li> <img src="images/qrcode_for_mingsiwei.jpg" alt="关注明思维公众号" title="关注明思维公众号"> </li>
                                     <li> <img src="images/cardintro.jpg" alt="卡片介绍" title="卡片介绍"> </li>
                                     <li> <img src="images/tables.jpg" alt="明亮的教室" title="明亮的教室"> </li>
                                 </ul>

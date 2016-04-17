@@ -159,21 +159,3 @@
                             </div>
                         </div>
                     </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/fjl.jpg" alt="" title="范佳林">
-                                <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 范佳林老师 </h4>
-                                <h6> 明睿数学名师 </h6>
-                                <p> 来自南京大学信息管理工程专业，保送研究生，家住"水晶之都"的江苏东海。具有多年家教经验，在孩子和家长口中均有不错的口碑。成绩优异，风趣幽默，踏实认真，有着理科生专属的睿智和严谨。高中时期由于成绩突出学费全免，并在南外学习一段时间，曾获得省数学竞赛一等奖。为人亲和，喜欢动漫，五子棋等，和孩子兴趣相投。座右铭为"勤能补拙是良训，一份辛苦一份才"，让孩子学会独立思考，爱上数学，并带领孩子一块学习知识，我相信孩子们一定可以成为更优秀的自己。希望能够成为孩子成长的引路人，和孩子共同进步、成长！
- </p>
-                            </div>
-                        </div>
-                    </div>

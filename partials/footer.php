@@ -77,9 +77,9 @@
                             </div>
                         </aside>
                         <aside class="widget mailchimp">
-                            <p class="dt-sc-contact-info"> <span class="fa fa-wechat"></span>扫一扫，加入明睿教育微信公众号 </p>
+                            <p class="dt-sc-contact-info"> <span class="fa fa-wechat"></span>扫一扫，加入南京明睿微信公众号 </p>
                             <div class="image">
-                                <img src="images/qrcode_merry.jpg" alt="" title="明睿教育微信公众号">
+                                <img src="images/qrcode_for_njmerry.jpg" alt="" title="南京明睿微信公众号">
                             </div>
                             <div id="merry_wechat"></div>
                             <!--

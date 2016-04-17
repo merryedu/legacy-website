@@ -1,6 +1,9 @@
 <?php include( "partials/header_courses.php" ); ?>
 <body class="main">
 	<!--wrapper starts-->
+  <div style='margin:0 auto;width:0px;height:0px;overflow:hidden;'>
+    <img src="images/weixin_merry.jpg" width='300'>
+  </div>
     <div class="wrapper">
         <?php
 			$page = 'services';

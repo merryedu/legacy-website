@@ -103,7 +103,7 @@
                         <li><a href="/doc/2016_new_grade_3_summer_courses.htm?update=5">2016暑秋新三年级课程安排</a></li>
                         <li><a href="/doc/2016_new_grade_4_summer_courses.htm?update=1">2016暑秋新四年级课程安排</a></li>
                         <li><a href="/doc/2016_new_grade_5_summer_courses.htm?update=1">2016暑秋新五年级课程安排</a></li>
-                        <li><a href="/doc/2016_new_english_summer_courses.htm?update=0">2016暑假明睿石头英语课程安排</a></li>
+                        <li><a href="/doc/2016_new_english_summer_courses.htm?update=1">2016暑假明睿石头英语课程安排</a></li>
                     </ul>
                 </div>
 

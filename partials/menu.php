@@ -42,7 +42,7 @@
                             -->
                             </li>
                             <li class="<?php if ($page=='about') { echo('current_page_item') ; } ?> mustard"> <a href="about.php"> 关于我们 </a> </li>
-							<li class="<?php if ($page=='baoming') { echo('current_page_item') ; } ?> mustard"> <a href="baoming.php"> 新生报名 </a> </li>
+							<li class="<?php if ($page=='baoming') { echo('current_page_item') ; } ?> mustard"> <a href="baoming.php"> 新生登记 </a> </li>
                             <li class="<?php if ($page=='staff') { echo('current_page_item') ; } ?> green"> <a href="our-staffs.php"> 我们的教师 </a> </li>
                             <li class="<?php if ($page=='services') { echo('current_page_item') ; } ?> yellow"> <a href="services.php"> 课程 </a> </li>
                             <li class="<?php if ($page=='materials') { echo('current_page_item') ; } ?> purple"> <a href="learning_materials.php"> 学习资料 </a> </li>

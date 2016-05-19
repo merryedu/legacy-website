@@ -26,11 +26,17 @@
             	<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=ZTnglUUopg2HSY2QAM7n9k4N"></script>
             	<section id="primary" class="content-full-width">
 	            	<h4>仙林教学点</h4>
+                <h5>地址: 南京仙林大学城杉湖西路8号东方天郡西区23栋1单元103</h5>
+                <h5>开放时间: 周二、周五14:00-20:30, 周六周日9:00-17:00</h5>
+                <h5>联系电话: 131-828-12306</h5>
 					<div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map"></div>
 
 					<div class="dt-sc-hr-medium"></div>
 
 					<h4>大行宫教学点</h4>
+          <h5>地址: 中山东路198号龙台国际大厦12楼1215室</h5>
+          <h5>开放时间: 周三、周四10:00-18:00，周五16:00-19:30, 周六周日9:00-18:00</h5>
+          <h5>联系电话: 025-86906505</h5>
 					<div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map2"></div>
 
                     <div class="dt-sc-hr"> </div>
@@ -61,15 +67,14 @@
 
                     <!--dt-sc-one-third starts-->
                     <div class="column dt-sc-one-fourth class_hours">
-                    	<h2>春季课程时间</h2>
+                    	<h2>课程时间</h2>
                         <ul class="class_hours">
-                        	<li>星期一<span>仙林(6:30pm - 8:30pm)</span></li>
-                            <li>星期二<span>暂无</span></li>
-                            <li>星期三<span>暂无</span></li>
-                            <li>星期四<span>暂无</span></li>
-                            <li>星期五<span>仙林(4:00pm - 6:00pm), 仙林(6:30pm - 8:00pm)</span></li>
-                            <li>星期六<span>大行宫(10:00am - 8:30pm)</span></li>
-                            <li>星期日<span>仙林(1:00pm - 3:00pm)</span></li>
+                            <li>星期二<span>16:30-20:00</span></li>
+                            <li>星期三<span>16:30-20:00</span></li>
+                            <li>星期四<span>16:30-20:00</span></li>
+                            <li>星期五<span>16:30-20:00</span></li>
+                            <li>星期六<span>09:00-21:00</span></li>
+                            <li>星期日<span>09:00-21:00</span></li>
                         </ul>
                         <div class="dt-sc-hr-small"></div>
                         <p><strong><span class="highlighter">我们十分关心</span> 你的宝贝</strong></p>

@@ -42,7 +42,7 @@
                     <div class="dt-sc-hr"> </div>
 
                     <!--dt-sc-two-third starts-->
-                    <div class="container">
+                    <div class="column dt-sc-three-fourth first contact_form_outer">
                       <script src="https://jinshuju.net/f/IU4oj9/embedded.js?banner=show&background=white&height=678"></script>
                     </div>
                     <!--dt-sc-two-third ends-->

@@ -41,35 +41,10 @@
 
                     <div class="dt-sc-hr"> </div>
 
-                    <section class="fullwidth-background turquoise-plain-bg">
-                        <!--container starts-->
-                        <div class="container">
-                          <script src="https://jinshuju.net/f/IU4oj9/embedded.js?banner=show&background=white&height=678"></script>
-                          <!--
-                        	<h2 class="dt-sc-hr-white-title">家长反馈</h2>
-                            <form method="post" action="php/admissionmail.php" id="admissionform" name="admissionform" class="admission-form">
-                                <p class="dt-sc-one-third column first">
-                                    <input id="name" name="txtname" type="text" placeholder="姓名" required="">
-                                </p>
-                                <p class="dt-sc-one-third column">
-                                    <input id="grade" name="txtgrade" type="text" placeholder="年级" required="">
-                                </p>
-                                <p class="dt-sc-one-third column">
-                                    <input id="teacher" name="txtteacher" type="text" placeholder="老师" required="">
-                                </p>
-                                <p>
-                                	<textarea id="admission" name="txtmessage" placeholder="消息"></textarea>
-                                </p>
-                                <div id="ajax_admission_msg"> </div>
-                                <p class="aligncenter">
-                                    <input name="submit" type="submit" id="submit" value="提交">
-                                </p>
-                            </form>
-                            -->
-                        </div>
-
-                        <!--container ends-->
-                    </section>
+                    <!--dt-sc-two-third starts-->
+                    <div class="container">
+                      <script src="https://jinshuju.net/f/IU4oj9/embedded.js?banner=show&background=white&height=678"></script>
+                    </div>
                     <!--dt-sc-two-third ends-->
 
                     <!--dt-sc-one-third starts-->

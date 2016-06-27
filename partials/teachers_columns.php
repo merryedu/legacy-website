@@ -20,7 +20,7 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/qc.jpg" alt="" title="阙辰">
+                                <img src="images/qc2.jpg" alt="" title="阙辰">
                                 <div class="dt-sc-image-overlay">
                                 	<a href="#" class="link"><span class="fa fa-link"></span></a>
                                     <a href="#" class="zoom"><span class="fa fa-search"></span></a>

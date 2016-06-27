@@ -20,16 +20,16 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/wqj.jpg" alt="" title="王奇君">
+                                <img src="images/qc.jpg" alt="" title="阙辰">
                                 <div class="dt-sc-image-overlay">
                                 	<a href="#" class="link"><span class="fa fa-link"></span></a>
                                     <a href="#" class="zoom"><span class="fa fa-search"></span></a>
                                 </div>
                             </div>
                             <div class="team-details">
-                                <h4> 王奇君老师 </h4>
-                                <h6> 明睿数学学院顾问 </h6>
-                                <p> 上海外国语大学传播学硕士学历，传攻教育传播方向。有多年在新东方学校教授英语数学的经验，辅导赴英初高中学生的数学教学，经过她的A-level和雅思考试培训后成功出国深造的学生不计其数。她数学功底和逻辑思维能力极强，在最讲究缜密的逻辑能力的辩论比赛中体现得淋漓尽致，曾获全国外研社杯英语辩论大赛一等奖、复旦大学大师杯辩论赛冠军。她本人的英语实力也是不容小觑，持高级口译证书，曾多次作为翻译或同传出席政府会议。 她能让喜欢上数学和逻辑的同学们的头脑和语言能力都锦上添花。<br>在教学风格上，王老师耐心严格、风趣幽默，“什么都是有方法的”成为她最有感染力的学习精神。</p>
+                                <h4> 阙辰老师 </h4>
+                                <h6> 明睿数学教学组组长 </h6>
+                                <p> 毕业于南京师范大学，多年资深教师经验，曾在上市教育公司任职，对数学有一份特殊的感情；对育人有一种深层的热爱。数学和生活密不可分，善于用生动的生活实例带领孩子们在奇妙的数学天地里遨游，让孩子们能主动发现问题，分析问题，解决问题，培养孩子学习的主动性和积极性，让孩子爱上数学。阙老师语言幽默，课堂生动，吸引孩子的注意力，多与孩子互动，给孩子多多发言的机会，让他们都能参与到课堂中来。</p>
                             </div>
                         </div>
                     </div>
@@ -37,16 +37,16 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/xzy.jpg" alt="" title="席志远">
+                                <img src="images/xj.jpg" alt="" title="宣举">
                                 <div class="dt-sc-image-overlay">
-                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
                                     <a href="#" class="zoom"><span class="fa fa-search"></span></a>
                                 </div>
                             </div>
                             <div class="team-details">
-                                <h4> 席志远老师 </h4>
+                                <h4> 宣举老师 </h4>
                                 <h6> 明睿数学高年级名师 </h6>
-                                <p> 来自南京大学理工院系、有着三年数学教学经验的温柔男生，呆萌、幽默、犀利、清晰多种矛盾因素集于一身，既能化身冷静理科男给孩子讲述数学道理，又能变成欢脱大男孩与孩子一起探讨数学问题，帮助过许多孩子在数学上获得巨大进步，想对多重风格了解更多，请紧盯席老师回眸一笑时真诚的眼睛。 </p>
+                                <p> 毕业于南京师范大学，理学硕士。学生时代的宣老师，理科成绩一直很拔尖，曾参加奥林匹克竞赛，多次获奖。宣举老师有三年数学教学经验，上课机智幽默，与学生打成一片，与学生亦师亦友友，关心每一个学生的成长，为每一名学生提供合适的教学方法。宣老师上课思路清晰，擅长激发每一个学生的潜能，善于运用教学技巧启发学生，有利于学生理解复杂的数学知识，在课堂上及时总结解题方法，举一反三，使学生每堂课都充满成就感。相信慧眼识珠的你一定会选择最适合的老师。 </p>
                             </div>
                         </div>
                     </div>
@@ -68,23 +68,6 @@
                         </div>
                     </div>
                     <div class="dt-sc-hr"></div>
-                    <div class="column dt-sc-one-fourth first">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/zmq.jpg" alt="" title="张敏勤">
-                                <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 张敏勤老师 </h4>
-                                <h6> 明睿数学名师、教研 </h6>
-                                <p> 来自东南大学热力专业的理科系软妹纸一枚，人萌课萌，能用萌萌搭，温柔柔的方式给孩子教授数学。喜欢孩子，擅长与孩子互动，带着南方姑娘的亲切和善，上课时娓娓道来，坚持授之以鱼不如授之以渔，用着自己独特的方式引领着“萌数学”的风格。 </p>
-                            </div>
-                        </div>
-                    </div>
                     <div class="column dt-sc-one-fourth">
                         <div class="dt-sc-team">
                             <div class="image">
@@ -137,6 +120,23 @@
                             </div>
                         </div>
                     </div>
+                    <div class="column dt-sc-one-fourth first">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/zmq.jpg" alt="" title="张敏勤">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 张敏勤老师 </h4>
+                                <h6> 明睿数学名师、教研 </h6>
+                                <p> 来自东南大学热力专业的理科系软妹纸一枚，人萌课萌，能用萌萌搭，温柔柔的方式给孩子教授数学。喜欢孩子，擅长与孩子互动，带着南方姑娘的亲切和善，上课时娓娓道来，坚持授之以鱼不如授之以渔，用着自己独特的方式引领着“萌数学”的风格。 </p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="dt-sc-hr"></div>
                     <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
@@ -156,6 +156,40 @@
 极具亲和力，将数学知识和孩子们生活中可接触的事物相结合，方便孩子理解。注重逻辑性，以孩子为课堂主体，调动每一个孩子积极性，培养其独立思考的能力。教师寄语：
 数学的世界不分先后，只要你用心、专心、细心，定能发现独一无二的风景！
  </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/xzy.jpg" alt="" title="席志远">
+                                <div class="dt-sc-image-overlay">
+                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 席志远老师 </h4>
+                                <h6> 明睿数学高年级名师 </h6>
+                                <p> 来自南京大学理工院系、有着三年数学教学经验的温柔男生，呆萌、幽默、犀利、清晰多种矛盾因素集于一身，既能化身冷静理科男给孩子讲述数学道理，又能变成欢脱大男孩与孩子一起探讨数学问题，帮助过许多孩子在数学上获得巨大进步，想对多重风格了解更多，请紧盯席老师回眸一笑时真诚的眼睛。 </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/wqj.jpg" alt="" title="王奇君">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 王奇君老师 </h4>
+                                <h6> 明睿数学学院顾问 </h6>
+                                <p> 上海外国语大学传播学硕士学历，传攻教育传播方向。有多年在新东方学校教授英语数学的经验，辅导赴英初高中学生的数学教学，经过她的A-level和雅思考试培训后成功出国深造的学生不计其数。她数学功底和逻辑思维能力极强，在最讲究缜密的逻辑能力的辩论比赛中体现得淋漓尽致，曾获全国外研社杯英语辩论大赛一等奖、复旦大学大师杯辩论赛冠军。她本人的英语实力也是不容小觑，持高级口译证书，曾多次作为翻译或同传出席政府会议。 她能让喜欢上数学和逻辑的同学们的头脑和语言能力都锦上添花。<br>在教学风格上，王老师耐心严格、风趣幽默，“什么都是有方法的”成为她最有感染力的学习精神。</p>
                             </div>
                         </div>
                     </div>

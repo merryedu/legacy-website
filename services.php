@@ -98,12 +98,12 @@
 
                 <div class="column dt-sc-one-third">
                     <ul class="dt-sc-fancy-list pink star">
-                        <li>2016暑秋新一年级课程安排</li>
+                        <li><a href="/doc/2016_new_grade_1_summer_courses.htm?update=1">2016暑秋新一年级课程安排</li>
                         <li><a href="/doc/2016_new_grade_2_summer_courses.htm?update=6">2016暑秋新二年级课程安排</a></li>
                         <li><a href="/doc/2016_new_grade_3_summer_courses.htm?update=7">2016暑秋新三年级课程安排</a></li>
-                        <li><a href="/doc/2016_new_grade_4_summer_courses.htm?update=8">2016暑秋新四年级课程安排</a></li>
-                        <li><a href="/doc/2016_new_grade_5_summer_courses.htm?update=10">2016暑秋新五年级课程安排</a></li>
-                        <li><a href="/doc/2016_new_english_summer_courses.htm?update=3">2016暑假明睿石头英语课程安排</a></li>
+                        <li><a href="/doc/2016_new_grade_4_summer_courses.htm?update=9">2016暑秋新四年级课程安排</a></li>
+                        <li><a href="/doc/2016_new_grade_5_summer_courses.htm?update=11">2016暑秋新五年级课程安排</a></li>
+                        <li><a href="/doc/2016_new_english_summer_courses.htm?update=4">2016暑假明睿石头英语课程安排</a></li>
                     </ul>
                 </div>
 

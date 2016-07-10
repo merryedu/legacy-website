@@ -68,7 +68,7 @@
                         </div>
                     </div>
                     <div class="dt-sc-hr"></div>
-                    <div class="column dt-sc-one-fourth">
+                    <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
@@ -82,6 +82,24 @@
                                 <h4> 高爽老师 </h4>
                                 <h6> 明睿数学一二年级负责人 </h6>
                                 <p> 来自南京师范大学。有着北方妹子的爽朗性格，良好口才以及活跃的数学思维。最擅长将抽象的数学题目形象化，将枯燥的应用题改编成动画影像。上课富有激情，戏剧式的呈现方式让孩子不知不觉中走入数学世界，角色由被动变为主动；一环扣一环的立体思维启发孩子们主动去思考主动问为什么主动探索答案；丰富的经验，乐观的个性，以及亲和力让孩子不再畏惧数学。她秉承“授之鱼不如授之以渔”的想法致力于让孩子们忘记死记硬背的方法，留下独立解决问题完善思维。高老师在课堂中会把她自己的优点传授每个她带的孩子，让孩子们在高老师的感染下从优秀到卓越。
+ </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/zj.jpg" alt="" title="庄佳">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 庄佳老师 </h4>
+                                <h6> 明睿数学名师 </h6>
+                                <p> 毕业于南京大学理工学院，数学逻辑思维活跃，学生时代参加数学竞赛多次获奖，在江苏省高考数学中也取得高分。天生外向开朗，上课富有激情，喜欢用形象生动的实例培养孩子们学习数学的兴趣，鼓励孩子们主动学习，快乐学习。对待工作认真负责，对待学生充满耐心，具有很强的亲和力，善于激发每一名学生的数学潜能并能帮助他们取得数学学习的进步。她秉承着“授之以渔”的教学理念，引导孩子走进数学世界，构建数学思维，从而能够独立自主的解决数学问题。
  </p>
                             </div>
                         </div>
@@ -120,6 +138,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="dt-sc-hr"></div>
                     <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
                             <div class="image">
@@ -137,8 +156,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="dt-sc-hr"></div>
-                    <div class="column dt-sc-one-fourth first">
+                    <div class="column dt-sc-one-fourth">
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">

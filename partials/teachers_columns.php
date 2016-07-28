@@ -54,24 +54,6 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/csq.jpg" alt="" title="曹上青">
-                                <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 曹上青老师 </h4>
-                                <h6> 明睿数学竞赛名师 </h6>
-                                <p> 毕业于南京大学数学系。小学通过三个小学数学竞赛一等奖保送到金陵中学初中部。在初中连续三年获得江苏省数学竞赛一等奖，加分到金陵中学高中部，在高中三年里认真专研数学竞赛，在高二，获得全国数学联赛一等奖，保送南大数学基础班。 从小就酷爱数学，对数学和数学教育充满热情。并且对待工作耐心、认真、负责，注重方法的举一反三，激发学生的学习兴趣，鼓励学生快乐学习，热情风趣，因材施教。注重用自己对待数学和生活的热情去感染学生，让学生爱数学，爱生活。 </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="dt-sc-hr"></div>
-                    <div class="column dt-sc-one-fourth first">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
                                 <img src="images/gs.jpg" alt="" title="高爽">
                                 <div class="dt-sc-image-overlay">
                                 	<a href="#" class="link"><span class="fa fa-link"></span></a>
@@ -86,7 +68,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="column dt-sc-one-fourth">
+                    <div class="dt-sc-hr"></div>
+                    <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
@@ -138,24 +121,24 @@
                             </div>
                         </div>
                     </div>
-                    <div class="dt-sc-hr"></div>
-                    <div class="column dt-sc-one-fourth first">
+                    <div class="column dt-sc-one-fourth">
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/zmq.jpg" alt="" title="张敏勤">
+                                <img src="images/csq.jpg" alt="" title="曹上青">
                                 <div class="dt-sc-image-overlay">
                                 	<a href="#" class="link"><span class="fa fa-link"></span></a>
                                     <a href="#" class="zoom"><span class="fa fa-search"></span></a>
                                 </div>
                             </div>
                             <div class="team-details">
-                                <h4> 张敏勤老师 </h4>
-                                <h6> 明睿数学名师 </h6>
-                                <p> 来自东南大学热力专业的理科系软妹纸一枚，人萌课萌，能用萌萌搭，温柔柔的方式给孩子教授数学。喜欢孩子，擅长与孩子互动，带着南方姑娘的亲切和善，上课时娓娓道来，坚持授之以鱼不如授之以渔，用着自己独特的方式引领着“萌数学”的风格。 </p>
+                                <h4> 曹上青老师 </h4>
+                                <h6> 明睿数学竞赛名师 </h6>
+                                <p> 毕业于南京大学数学系。小学通过三个小学数学竞赛一等奖保送到金陵中学初中部。在初中连续三年获得江苏省数学竞赛一等奖，加分到金陵中学高中部，在高中三年里认真专研数学竞赛，在高二，获得全国数学联赛一等奖，保送南大数学基础班。 从小就酷爱数学，对数学和数学教育充满热情。并且对待工作耐心、认真、负责，注重方法的举一反三，激发学生的学习兴趣，鼓励学生快乐学习，热情风趣，因材施教。注重用自己对待数学和生活的热情去感染学生，让学生爱数学，爱生活。 </p>
                             </div>
                         </div>
                     </div>
+                    <div class="dt-sc-hr"></div>
                     <div class="column dt-sc-one-fourth">
                         <div class="dt-sc-team">
                             <div class="image">
@@ -191,23 +174,6 @@
                                 <h4> 席志远老师 </h4>
                                 <h6> 明睿数学高年级名师 </h6>
                                 <p> 来自南京大学理工院系、有着三年数学教学经验的温柔男生，呆萌、幽默、犀利、清晰多种矛盾因素集于一身，既能化身冷静理科男给孩子讲述数学道理，又能变成欢脱大男孩与孩子一起探讨数学问题，帮助过许多孩子在数学上获得巨大进步，想对多重风格了解更多，请紧盯席老师回眸一笑时真诚的眼睛。 </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/wqj.jpg" alt="" title="王奇君">
-                                <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 王奇君老师 </h4>
-                                <h6> 明睿数学学院顾问 </h6>
-                                <p> 上海外国语大学传播学硕士学历，传攻教育传播方向。有多年在新东方学校教授英语数学的经验，辅导赴英初高中学生的数学教学，经过她的A-level和雅思考试培训后成功出国深造的学生不计其数。她数学功底和逻辑思维能力极强，在最讲究缜密的逻辑能力的辩论比赛中体现得淋漓尽致，曾获全国外研社杯英语辩论大赛一等奖、复旦大学大师杯辩论赛冠军。她本人的英语实力也是不容小觑，持高级口译证书，曾多次作为翻译或同传出席政府会议。 她能让喜欢上数学和逻辑的同学们的头脑和语言能力都锦上添花。<br>在教学风格上，王老师耐心严格、风趣幽默，“什么都是有方法的”成为她最有感染力的学习精神。</p>
                             </div>
                         </div>
                     </div>

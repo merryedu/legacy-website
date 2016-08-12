@@ -102,7 +102,7 @@
                         <li><a href="/doc/2016_new_grade_2_summer_courses.htm?update=7">2016暑秋新二年级课程安排</a></li>
                         <li><a href="/doc/2016_new_grade_3_summer_courses.htm?update=8">2016暑秋新三年级课程安排</a></li>
                         <li><a href="/doc/2016_new_grade_4_summer_courses.htm?update=11">2016暑秋新四年级课程安排</a></li>
-                        <li><a href="/doc/2016_new_grade_5_summer_courses.htm?update=12">2016暑秋新五年级课程安排</a></li>
+                        <li><a href="/doc/2016_new_grade_5_summer_courses.htm?update=13">2016暑秋新五年级课程安排</a></li>
                     </ul>
                 </div>
 

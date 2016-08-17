@@ -51,6 +51,12 @@
                         <a href="/download/20160429明睿数学一升二选拔考试试卷.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 20160429明睿数学一升二选拔考试试卷 <span class="fa fa-download"> </span></a>
                         <div class="dt-sc-clear"></div>
                         <a href="/download/20160429明睿数学二升三选拔考试试卷.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 20160429明睿数学二升三选拔考试试卷 <span class="fa fa-download"> </span></a>
+                        <div class="dt-sc-clear"></div>
+                        <a href="/download/仙外期初模拟试卷二升三.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2016仙外期初模拟试卷二升三 <span class="fa fa-download"> </span></a>
+                        <div class="dt-sc-clear"></div>
+                        <a href="/download/仙外期初模拟试卷三升四.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2016仙外期初模拟试卷三升四 <span class="fa fa-download"> </span></a>
+                        <div class="dt-sc-clear"></div>
+                        <a href="/download/仙外期初模拟试卷四升五.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2016仙外期初模拟试卷四升五 <span class="fa fa-download"> </span></a>
                         <!--
                         <a href="#" class="dt-sc-button medium"> Medium Button <span class="fa fa-chevron-circle-right"> </span></a>
                         <div class="dt-sc-clear"></div>

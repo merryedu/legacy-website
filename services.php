@@ -98,7 +98,7 @@
 
                 <div class="column dt-sc-one-third">
                     <ul class="dt-sc-fancy-list pink star">
-                        <li><a href="/doc/2016_new_grade_1_summer_courses.htm?update=2">2016暑秋新一年级课程安排</li>
+                        <li><a href="/doc/2016_new_grade_1_summer_courses.htm?update=3">2016暑秋新一年级课程安排</li>
                         <li><a href="/doc/2016_new_grade_2_summer_courses.htm?update=8">2016暑秋新二年级课程安排</a></li>
                         <li><a href="/doc/2016_new_grade_3_summer_courses.htm?update=10">2016暑秋新三年级课程安排</a></li>
                         <li><a href="/doc/2016_new_grade_4_summer_courses.htm?update=13">2016暑秋新四年级课程安排</a></li>

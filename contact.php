@@ -28,7 +28,7 @@
 	            	<h4>仙林教学点</h4>
                 <h5>地址: 南京仙林大学城杉湖西路8号东方天郡西区23栋1单元103</h5>
                 <h5>开放时间: 周二、周五14:00-20:30, 周六周日9:00-17:00</h5>
-                <h5>联系电话: 131-828-12306</h5>
+                <h5>联系电话: 400-900-2110</h5>
 					<div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map"></div>
 
 					<div class="dt-sc-hr-medium"></div>

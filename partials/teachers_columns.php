@@ -125,16 +125,16 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/csq.jpg" alt="" title="曹上青">
+                                <img src="images/xzy.jpg" alt="" title="席志远">
                                 <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
                                     <a href="#" class="zoom"><span class="fa fa-search"></span></a>
                                 </div>
                             </div>
                             <div class="team-details">
-                                <h4> 曹上青老师 </h4>
-                                <h6> 明睿数学竞赛名师 </h6>
-                                <p> 毕业于南京大学数学系。小学通过三个小学数学竞赛一等奖保送到金陵中学初中部。在初中连续三年获得江苏省数学竞赛一等奖，加分到金陵中学高中部，在高中三年里认真专研数学竞赛，在高二，获得全国数学联赛一等奖，保送南大数学基础班。 从小就酷爱数学，对数学和数学教育充满热情。并且对待工作耐心、认真、负责，注重方法的举一反三，激发学生的学习兴趣，鼓励学生快乐学习，热情风趣，因材施教。注重用自己对待数学和生活的热情去感染学生，让学生爱数学，爱生活。 </p>
+                                <h4> 席志远老师 </h4>
+                                <h6> 明睿数学高年级名师 </h6>
+                                <p> 来自南京大学理工院系、有着三年数学教学经验的温柔男生，呆萌、幽默、犀利、清晰多种矛盾因素集于一身，既能化身冷静理科男给孩子讲述数学道理，又能变成欢脱大男孩与孩子一起探讨数学问题，帮助过许多孩子在数学上获得巨大进步，想对多重风格了解更多，请紧盯席老师回眸一笑时真诚的眼睛。 </p>
                             </div>
                         </div>
                     </div>
@@ -157,23 +157,6 @@
 极具亲和力，将数学知识和孩子们生活中可接触的事物相结合，方便孩子理解。注重逻辑性，以孩子为课堂主体，调动每一个孩子积极性，培养其独立思考的能力。教师寄语：
 数学的世界不分先后，只要你用心、专心、细心，定能发现独一无二的风景！
  </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/xzy.jpg" alt="" title="席志远">
-                                <div class="dt-sc-image-overlay">
-                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 席志远老师 </h4>
-                                <h6> 明睿数学高年级名师 </h6>
-                                <p> 来自南京大学理工院系、有着三年数学教学经验的温柔男生，呆萌、幽默、犀利、清晰多种矛盾因素集于一身，既能化身冷静理科男给孩子讲述数学道理，又能变成欢脱大男孩与孩子一起探讨数学问题，帮助过许多孩子在数学上获得巨大进步，想对多重风格了解更多，请紧盯席老师回眸一笑时真诚的眼睛。 </p>
                             </div>
                         </div>
                     </div>

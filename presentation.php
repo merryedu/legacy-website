@@ -38,6 +38,10 @@
                         <a href="/download/2016至2017寒春五年级家长会.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2016至2017寒春五年级家长会PPT <span class="fa fa-download"> </span></a>
                     <div class="dt-sc-hr"></div>
 
+                    <div class="column dt-sc-one-half">
+	                      <a href="/download/2016一二年级沙龙.pdf" class="dt-sc-button small"> <span class="fa fa-file-pdf-o"> 2016一二年级沙龙PPT <span class="fa fa-download"> </span></a>
+                    <div class="dt-sc-hr"></div>
+
                 </section>
                 <!--primary ends-->
             </div>

@@ -25,19 +25,27 @@
             	<!--primary starts-->
             	<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=ZTnglUUopg2HSY2QAM7n9k4N"></script>
             	<section id="primary" class="content-full-width">
-	            	<h4>仙林教学点</h4>
+                <h4>大行宫教学点</h4>
+                <h5>地址: 中山东路198号龙台国际大厦12楼明睿教育</h5>
+                <h5>开放时间: 周二、周三、周四10:00-18:00，周五10:00-19:30, 周六周日9:00-18:00</h5>
+                <h5>联系电话: 025-86906505</h5>
+					      <div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map2"></div>
+
+                <div class="dt-sc-hr-medium"></div>
+
+                <h4>鼓楼教学点</h4>
+                <h5>地址: 中央路19号金峰大厦1501明睿教育</h5>
+                <h5>开放时间: 周五14:00-20:30, 周六周日9:00-17:00 (首次拜访请提前电话预约)</h5>
+                <h5>联系电话: 025-66043328-0</h5>
+					      <div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map3"></div>
+
+					      <div class="dt-sc-hr-medium"></div>
+
+                <h4>仙林教学点</h4>
                 <h5>地址: 南京仙林大学城杉湖西路8号东方天郡西区23栋1单元103</h5>
                 <h5>开放时间: 周二、周五14:00-20:30, 周六周日9:00-17:00</h5>
                 <h5>联系电话: 400-900-2110</h5>
-					<div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map"></div>
-
-					<div class="dt-sc-hr-medium"></div>
-
-					<h4>大行宫教学点</h4>
-          <h5>地址: 中山东路198号龙台国际大厦12楼1215室</h5>
-          <h5>开放时间: 周三、周四10:00-18:00，周五16:00-19:30, 周六周日9:00-18:00</h5>
-          <h5>联系电话: 025-86906505</h5>
-					<div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map2"></div>
+					      <div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map"></div>
 
                     <div class="dt-sc-hr"> </div>
 
@@ -183,6 +191,63 @@
     }
     var map2;
       initMap2();
+  </script>
+  <script type="text/javascript">
+    //创建和初始化地图函数：
+    function initMap3(){
+      createMap3();//创建地图
+      setMapEvent3();//设置地图事件
+      addMapControl3();//向地图添加控件
+      addMapOverlay3();//向地图添加覆盖物
+    }
+    function createMap3(){
+      map2 = new BMap.Map("map3");
+      map2.centerAndZoom(new BMap.Point(118.789755,32.066965),18);
+    }
+    function setMapEvent3(){
+      map2.enableScrollWheelZoom();
+      map2.enableKeyboard();
+      map2.enableDragging();
+      map2.enableDoubleClickZoom()
+    }
+    function addClickHandler3(target,window){
+      target.addEventListener("click",function(){
+        target.openInfoWindow(window);
+      });
+    }
+    function addMapOverlay3(){
+      var markers = [
+        {content:"鼓楼教学点，中央路19号金峰大厦1501",title:"明睿教育鼓楼教学点",imageOffset: {width:0,height:3},position:{lat:32.068495,lng:118.789768}}
+      ];
+      for(var index = 0; index < markers.length; index++ ){
+        var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);
+        var marker = new BMap.Marker(point,{icon:new BMap.Icon("http://api.map.baidu.com/lbsapi/createmap/images/icon.png",new BMap.Size(20,25),{
+          imageOffset: new BMap.Size(markers[index].imageOffset.width,markers[index].imageOffset.height)
+        })});
+        var label = new BMap.Label(markers[index].title,{offset: new BMap.Size(25,5)});
+        var opts = {
+          width: 200,
+          title: markers[index].title,
+          enableMessage: false
+        };
+        var infoWindow = new BMap.InfoWindow(markers[index].content,opts);
+        marker.setLabel(label);
+        addClickHandler3(marker,infoWindow);
+        map3.addOverlay(marker);
+      };
+    }
+    //向地图添加控件
+    function addMapControl3(){
+      var scaleControl = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+      scaleControl.setUnit(BMAP_UNIT_IMPERIAL);
+      map3.addControl(scaleControl);
+      var navControl = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+      map3.addControl(navControl);
+      var overviewControl = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:true});
+      map3.addControl(overviewControl);
+    }
+    var map3;
+      initMap3();
   </script>
                 <!--primary ends-->
             </div>

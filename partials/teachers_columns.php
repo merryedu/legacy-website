@@ -160,3 +160,41 @@
                             </div>
                         </div>
                     </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/yh.jpg" alt="" title="於航">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 於航老师 </h4>
+                                <h6> 明睿数学名师 </h6>
+                                <p> 来自于南京师范大学，注重理性思维，逻辑性强，不管是生活还是学习都非常严谨。在教学中，更是善于打开学生的思维，发掘他们的逻辑潜力，带动学生理性思考问题。提升学生理科能力的同时，也不忘注重励志教育，帮助学生积极面对学习，培养学习兴趣，让学习变得更轻松，更简单，更有效。
+   於老师热爱教学，希望能够在健康，实效，充满趣味性的课堂氛围中，有效提高每个学生的综合素质，丰富他们的知识积累，呵护他们快乐学习，快乐成长！
+ </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/zt.jpg" alt="" title="张添">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 张添老师 </h4>
+                                <h6> 明睿竞赛名师 </h6>
+                                <p> 毕业于南京大学理科强化班，硕士学位。曾获得希望杯数学竞赛金奖、全国数学竞赛国家级一等奖。高中期间获全国中学生数学联赛一等奖。曾在上市教育公司任职多年，拥有丰富的小升初经验。所带学员中多名获得希望杯、华罗庚杯、走美杯一等奖。张老师对冲杯赛，书人五星一等、小升初优录有着丰富的经验。所带多名学院顺利考入南外、树人等初中名校。
+                                  性格温和，对教育充满热情，授课内容严谨，对作业的要求严格，授课方式轻松有趣。希望能培养孩子学习的兴趣，对挑战难题充满热情，达到自愿学习、自主学习的目的。
+ </p>
+                            </div>
+                        </div>
+                    </div>

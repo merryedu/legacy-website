@@ -201,14 +201,14 @@
       addMapOverlay3();//向地图添加覆盖物
     }
     function createMap3(){
-      map2 = new BMap.Map("map3");
-      map2.centerAndZoom(new BMap.Point(118.789755,32.066965),18);
+      map3 = new BMap.Map("map3");
+      map3.centerAndZoom(new BMap.Point(118.789755,32.066965),18);
     }
     function setMapEvent3(){
-      map2.enableScrollWheelZoom();
-      map2.enableKeyboard();
-      map2.enableDragging();
-      map2.enableDoubleClickZoom()
+      map3.enableScrollWheelZoom();
+      map3.enableKeyboard();
+      map3.enableDragging();
+      map3.enableDoubleClickZoom()
     }
     function addClickHandler3(target,window){
       target.addEventListener("click",function(){

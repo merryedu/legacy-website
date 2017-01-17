@@ -50,25 +50,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/gs.jpg" alt="" title="高爽">
-                                <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 高爽老师 </h4>
-                                <h6> 明睿数学一二年级负责人 </h6>
-                                <p> 来自南京师范大学。有着北方妹子的爽朗性格，良好口才以及活跃的数学思维。最擅长将抽象的数学题目形象化，将枯燥的应用题改编成动画影像。上课富有激情，戏剧式的呈现方式让孩子不知不觉中走入数学世界，角色由被动变为主动；一环扣一环的立体思维启发孩子们主动去思考主动问为什么主动探索答案；丰富的经验，乐观的个性，以及亲和力让孩子不再畏惧数学。她秉承“授之鱼不如授之以渔”的想法致力于让孩子们忘记死记硬背的方法，留下独立解决问题完善思维。高老师在课堂中会把她自己的优点传授每个她带的孩子，让孩子们在高老师的感染下从优秀到卓越。
- </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="dt-sc-hr"></div>
                     <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
                             <div class="image">
@@ -81,60 +62,9 @@
                             </div>
                             <div class="team-details">
                                 <h4> 庄佳老师 </h4>
-                                <h6> 明睿数学名师 </h6>
+                                <h6> 明睿数学教研组组长 </h6>
                                 <p> 毕业于南京大学理工学院，数学逻辑思维活跃，学生时代参加数学竞赛多次获奖，在江苏省高考数学中也取得高分。天生外向开朗，上课富有激情，喜欢用形象生动的实例培养孩子们学习数学的兴趣，鼓励孩子们主动学习，快乐学习。对待工作认真负责，对待学生充满耐心，具有很强的亲和力，善于激发每一名学生的数学潜能并能帮助他们取得数学学习的进步。她秉承着“授之以渔”的教学理念，引导孩子走进数学世界，构建数学思维，从而能够独立自主的解决数学问题。
  </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/tyw.jpg" alt="" title="陶雨薇">
-                                <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 陶雨薇老师 </h4>
-                                <h6> 明睿数学教研组组长 </h6>
-                                <p> 来自南京大学，是淮左名都扬州的一名净身高一米七的“高”冷女生。不仅有着居高临下的身高，还有着居高临下的数学成绩，在“恐怖”的江苏数学小升初、中考、高考中（143+34）均考出接近满分的傲人成绩。解题时一秒高冷，思路清晰方法严谨；讲题时深入浅出，能用简洁明了的方式让孩子理解数学道理，培养良好习惯。调皮的孩子，敢不敢来感受一下“高冷”陶老师的风格？ </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/txt.jpg" alt="" title="汤小婷">
-                                <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 汤小婷老师 </h4>
-                                <h6> 明睿数学小低名师 </h6>
-                                <p> 来自南京大学，有过三年小学生学习辅导经验，深受学生和家长喜爱。既有着文科女生的敏感细腻，也有着天生的外向开朗。还有强大的沟通能力和良好口才加持，在大学期间曾多次担任主持和外联工作。丰富的经验侧面提升了她的教学能力。她关注儿童心理学，重视学生本身，擅长与他们相处，具有很强的亲和力，能用生动形象的讲授引导小朋友展现自己和开拓思维。以循循善诱的方式帮助小朋友学会数学，爱上数学。 </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/xzy.jpg" alt="" title="席志远">
-                                <div class="dt-sc-image-overlay">
-                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 席志远老师 </h4>
-                                <h6> 明睿数学高年级名师 </h6>
-                                <p> 来自南京大学理工院系、有着三年数学教学经验的温柔男生，呆萌、幽默、犀利、清晰多种矛盾因素集于一身，既能化身冷静理科男给孩子讲述数学道理，又能变成欢脱大男孩与孩子一起探讨数学问题，帮助过许多孩子在数学上获得巨大进步，想对多重风格了解更多，请紧盯席老师回眸一笑时真诚的眼睛。 </p>
                             </div>
                         </div>
                     </div>
@@ -143,20 +73,18 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/gj.jpg" alt="" title="郭婧">
+                                <img src="images/ztm.jpg" alt="" title="张铁民">
                                 <div class="dt-sc-image-overlay">
                                 	<a href="#" class="link"><span class="fa fa-link"></span></a>
                                     <a href="#" class="zoom"><span class="fa fa-search"></span></a>
                                 </div>
                             </div>
                             <div class="team-details">
-                                <h4> 郭婧老师 </h4>
-                                <h6> 明睿数学名师 </h6>
-                                <p> 毕业于南京大学，保送南京大学硕士。具有三年小学奥数培训经历。一直以来数学成绩优异，中高考数学成绩几近满分，曾获全国高中数学联赛省二等奖，国家三等奖等。爱笑、爱孩子，极具亲和力，如邻家姐姐般深受孩子喜爱。本着对每一个孩子负责的原则，以孩子为主体，激发孩子学习的兴趣，培养其独立思考的能力。授课风格严谨又不失幽默，寓教于乐，让孩子们享受学习的快乐。教学心得：
-学习数学不是死记硬背，套用公式，只有寓教于乐，让孩子们享受快乐学习的过程，才能让孩子主动探索多彩的数学世界。授课风格：
-极具亲和力，将数学知识和孩子们生活中可接触的事物相结合，方便孩子理解。注重逻辑性，以孩子为课堂主体，调动每一个孩子积极性，培养其独立思考的能力。教师寄语：
-数学的世界不分先后，只要你用心、专心、细心，定能发现独一无二的风景！
- </p>
+                                <h4> 张铁民老师 </h4>
+                                <h6> 明睿数学高年级名师 </h6>
+                                <p> 毕业于南京大学物理系。 张老师学生时代的成绩非常优秀，深受老师赞赏和同学仰慕，他对数学尤其热爱，并且取得了骄人的成绩。小学和初中连续多年获得江苏省数学竞赛一等奖，高中夺得全国数学联赛一等奖， 也曾多次获得其他各类理科竞赛一等奖，对竞赛有着丰富的经验。
+                                  他数学逻辑思维极强，喜欢钻研，对问题寻根求源。对奥数有许多独到的心得体会，对难题思路极为开阔，能带孩子在数学的世界里大展拳脚，找到自己的前进之路。他授课逻辑清晰，思维严谨，一步步引导孩子发现问题、思考问题、解决问题，激发孩子对于挑战难题的兴趣和热情；善于归纳总结解题方法，帮助孩子深入理解所学知识。
+                                  张老师也是位性格温和，有亲和力的老师，深受孩子们的喜爱。他热爱教育事业，怀揣着一颗赤诚的心，注重培养孩子的数学逻辑思维，希望能够把自己对数学的感觉与经验传递给每一个孩子，真正帮助他们掌握更多的学习方法，获得更加优异的成绩。</p>
                             </div>
                         </div>
                     </div>
@@ -183,6 +111,63 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/gj.jpg" alt="" title="郭婧">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 郭婧老师 </h4>
+                                <h6> 明睿数学名师 </h6>
+                                <p> 毕业于南京大学，保送南京大学硕士。具有三年小学奥数培训经历。一直以来数学成绩优异，中高考数学成绩几近满分，曾获全国高中数学联赛省二等奖，国家三等奖等。爱笑、爱孩子，极具亲和力，如邻家姐姐般深受孩子喜爱。本着对每一个孩子负责的原则，以孩子为主体，激发孩子学习的兴趣，培养其独立思考的能力。授课风格严谨又不失幽默，寓教于乐，让孩子们享受学习的快乐。教学心得：
+学习数学不是死记硬背，套用公式，只有寓教于乐，让孩子们享受快乐学习的过程，才能让孩子主动探索多彩的数学世界。授课风格：
+极具亲和力，将数学知识和孩子们生活中可接触的事物相结合，方便孩子理解。注重逻辑性，以孩子为课堂主体，调动每一个孩子积极性，培养其独立思考的能力。教师寄语：
+数学的世界不分先后，只要你用心、专心、细心，定能发现独一无二的风景！
+ </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/txt.jpg" alt="" title="汤小婷">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 汤小婷老师 </h4>
+                                <h6> 明睿数学小低名师 </h6>
+                                <p> 来自南京大学，有过三年小学生学习辅导经验，深受学生和家长喜爱。既有着文科女生的敏感细腻，也有着天生的外向开朗。还有强大的沟通能力和良好口才加持，在大学期间曾多次担任主持和外联工作。丰富的经验侧面提升了她的教学能力。她关注儿童心理学，重视学生本身，擅长与他们相处，具有很强的亲和力，能用生动形象的讲授引导小朋友展现自己和开拓思维。以循循善诱的方式帮助小朋友学会数学，爱上数学。 </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="dt-sc-hr"></div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/gs.jpg" alt="" title="高爽">
+                                <div class="dt-sc-image-overlay">
+                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 高爽老师 </h4>
+                                <h6> 明睿数学名师 </h6>
+                                <p> 来自南京师范大学。有着北方妹子的爽朗性格，良好口才以及活跃的数学思维。上课富有激情，戏剧式的呈现方式让孩子不知不觉中走入数学世界，角色由被动变为主动；一环扣一环的立体思维启发孩子们主动去思考主动问为什么主动探索答案；丰富的经验，乐观的个性，以及亲和力让孩子不再畏惧数学。高老师在课堂中会把她自己的优点传授每个她带的孩子，让孩子们在高老师的感染下从优秀到卓越。
+ </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
                                 <img src="images/zt.jpg" alt="" title="张添">
                                 <div class="dt-sc-image-overlay">
                                 	<a href="#" class="link"><span class="fa fa-link"></span></a>
@@ -195,6 +180,23 @@
                                 <p> 毕业于南京大学理科强化班，硕士学位。曾获得希望杯数学竞赛金奖、全国数学竞赛国家级一等奖。高中期间获全国中学生数学联赛一等奖。曾在上市教育公司任职多年，拥有丰富的小升初经验。所带学员中多名获得希望杯、华罗庚杯、走美杯一等奖。张老师对冲杯赛，书人五星一等、小升初优录有着丰富的经验。所带多名学院顺利考入南外、树人等初中名校。
                                   性格温和，对教育充满热情，授课内容严谨，对作业的要求严格，授课方式轻松有趣。希望能培养孩子学习的兴趣，对挑战难题充满热情，达到自愿学习、自主学习的目的。
  </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/xzy.jpg" alt="" title="席志远">
+                                <div class="dt-sc-image-overlay">
+                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 席志远老师 </h4>
+                                <h6> 明睿数学高年级名师 </h6>
+                                <p> 来自南京大学理工院系、有着三年数学教学经验的温柔男生，呆萌、幽默、犀利、清晰多种矛盾因素集于一身，既能化身冷静理科男给孩子讲述数学道理，又能变成欢脱大男孩与孩子一起探讨数学问题，帮助过许多孩子在数学上获得巨大进步，想对多重风格了解更多，请紧盯席老师回眸一笑时真诚的眼睛。 </p>
                             </div>
                         </div>
                     </div>

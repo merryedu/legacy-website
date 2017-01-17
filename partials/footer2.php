@@ -68,8 +68,10 @@
                         <aside class="widget widget_text">
                         <h3 class="widgettitle steelblue_sketch">联系方式</h3>
                             <div class="textwidget">
-                                <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 南京仙林大学城杉湖西路8号东方天郡西区23栋1单元103</p>
-                                <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 中山东路198号龙台国际大厦12楼1215室</p>
+                              <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 中山东路198号龙台国际大厦12楼1215室(近大行宫地铁站)</p>
+                              <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 鼓楼中央路19号金峰大厦1501室(近鼓楼地铁站)</p>
+                              <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 南京仙林大学城杉湖西路8号东方天郡西区23栋1单元103(近学则路地铁站)</p>
+
                                 <p class="dt-sc-contact-info"><span class="fa fa-phone"></span> 400-900-2110 </p>
                                 <p class="dt-sc-contact-info"><span class="fa fa-envelope"></span><a href="mailto:wxy@merryedu.com"> wxy@merryedu.com </a></p>
                                 <p class="dt-sc-contact-info"><span class="fa fa-qq"></span> QQ号: 764705242 </a></p>
@@ -100,7 +102,7 @@
             <!--footer-widgets-wrapper ends-->
             <div class="copyright">
         		<div class="container">
-                	<p class="copyright-info"> ©版权所有：明睿教育 Copy Right 2015 merryedu.com All Right Reserved. Design by <a href="https://github.com/merryedu" title=""> merryedu </a> 苏ICP备15002411号</p>
+                	<p class="copyright-info"> ©版权所有：明睿教育 Copy Right 2017 merryedu.com All Right Reserved. Design by <a href="https://github.com/merryedu" title=""> merryedu </a> 苏ICP备15002411号</p>
         			<div class="footer-links">
                         <p>关注我们</p>
                         <ul class="dt-sc-social-icons">

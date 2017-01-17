@@ -69,7 +69,7 @@
                         </div>
                     </div>
                     <div class="dt-sc-hr"></div>
-                    <div class="column dt-sc-one-fourth">
+                    <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
@@ -146,7 +146,7 @@
                         </div>
                     </div>
                     <div class="dt-sc-hr"></div>
-                    <div class="column dt-sc-one-fourth">
+                    <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">

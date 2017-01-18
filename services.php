@@ -109,7 +109,7 @@
                 <div class="column dt-sc-one-third">
                     <ul class="dt-sc-fancy-list pink smile">
                         <li><a href="/doc/2016_2017_grade_1_winter_spring_courses.htm?update=5">2016-2017寒春一年级课程安排</li>
-                        <li><a href="/doc/2016_2017_grade_2_winter_spring_courses.htm?update=6">2016-2017寒春二年级课程安排</a></li>
+                        <li><a href="/doc/2016_2017_grade_2_winter_spring_courses.htm?update=7">2016-2017寒春二年级课程安排</a></li>
                         <li><a href="/doc/2016_2017_grade_3_winter_spring_courses.htm?update=5">2016-2017寒春三年级课程安排</a></li>
                         <li><a href="/doc/2016_2017_grade_4_winter_spring_courses.htm?update=3">2016-2017寒春四年级课程安排</a></li>
                         <li><a href="/doc/2016_2017_grade_5_winter_spring_courses.htm?update=3">2016-2017寒春五年级课程安排</a></li>

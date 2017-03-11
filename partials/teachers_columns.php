@@ -154,24 +154,6 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/gs.jpg" alt="" title="高爽">
-                                <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 高爽老师 </h4>
-                                <h6> 明睿数学名师 </h6>
-                                <p> 来自南京师范大学。有着北方妹子的爽朗性格，良好口才以及活跃的数学思维。上课富有激情，戏剧式的呈现方式让孩子不知不觉中走入数学世界，角色由被动变为主动；一环扣一环的立体思维启发孩子们主动去思考主动问为什么主动探索答案；丰富的经验，乐观的个性，以及亲和力让孩子不再畏惧数学。高老师在课堂中会把她自己的优点传授每个她带的孩子，让孩子们在高老师的感染下从优秀到卓越。
- </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
                                 <img src="images/wzj.jpg" alt="" title="王兆杰">
                                 <div class="dt-sc-image-overlay">
                                   <a href="#" class="link"><span class="fa fa-link"></span></a>

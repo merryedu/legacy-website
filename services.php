@@ -108,11 +108,22 @@
 
                 <div class="column dt-sc-one-third">
                     <ul class="dt-sc-fancy-list pink smile">
-                        <li><a href="/doc/2016_2017_grade_1_winter_spring_courses.htm?update=7">2016-2017寒春一年级课程安排</li>
+                        <li><a href="/doc/2016_2017_grade_1_winter_spring_courses.htm?update=7">2016-2017寒春一年级课程安排</a></li>
                         <li><a href="/doc/2016_2017_grade_2_winter_spring_courses.htm?update=9">2016-2017寒春二年级课程安排</a></li>
                         <li><a href="/doc/2016_2017_grade_3_winter_spring_courses.htm?update=7">2016-2017寒春三年级课程安排</a></li>
                         <li><a href="/doc/2016_2017_grade_4_winter_spring_courses.htm?update=8">2016-2017寒春四年级课程安排</a></li>
                         <li><a href="/doc/2016_2017_grade_5_winter_spring_courses.htm?update=9">2016-2017寒春五年级课程安排</a></li>
+                    </ul>
+                </div>
+
+                <div class="column dt-sc-one-third">
+                    <ul class="dt-sc-fancy-list mustard star">
+                        <li><a href="/doc/2017_new_grade_1_summer_autumn_courses.htm?update=100">2017暑秋新一年级课程安排</a></li>
+                        <li><a href="/doc/2017_new_grade_2_summer_autumn_courses.htm?update=100">2017暑秋新二年级课程安排</a></li>
+                        <li><a href="/doc/2017_new_grade_3_summer_autumn_courses.htm?update=100">2017暑秋新三年级课程安排</a></li>
+                        <li><a href="/doc/2017_new_grade_4_summer_autumn_courses.htm?update=100">2017暑秋新四年级课程安排</a></li>
+                        <li><a href="/doc/2017_new_grade_5_summer_autumn_courses.htm?update=100">2017暑秋新五年级课程安排</a></li>
+                        <li><a href="/doc/2017_new_grade_6_summer_autumn_courses.htm?update=100">2017暑秋新六年级课程安排</a></li>
                     </ul>
                 </div>
 

@@ -66,7 +66,7 @@
                             </div>
                             <div class="team-details">
                                 <h4> 庄佳老师 </h4>
-                                <h6> 明睿数学教研组组长 </h6>
+                                <h6> 明睿数学名师 </h6>
                                 <p> 毕业于南京大学，数学逻辑思维活跃，学生时代参加数学竞赛多次获奖，在江苏省高考数学中也取得高分。天生外向开朗，上课富有激情，喜欢用形象生动的实例培养孩子们学习数学的兴趣，鼓励孩子们主动学习，快乐学习。对待工作认真负责，对待学生充满耐心，具有很强的亲和力，善于激发每一名学生的数学潜能并能帮助他们取得数学学习的进步。她秉承着“授之以渔”的教学理念，引导孩子走进数学世界，构建数学思维，从而能够独立自主的解决数学问题。
  </p>
                             </div>
@@ -151,6 +151,24 @@
                     </div>
                     <div class="dt-sc-hr"></div>
                     <div class="column dt-sc-one-fourth first">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/sm.jpg" alt="" title="石敏">
+                                <div class="dt-sc-image-overlay">
+                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 石敏老师 </h4>
+                                <h6> 明睿数学名师 </h6>
+                                <p> 毕业于南京大学，学生时代成绩非常优秀，参加数学竞赛多次获奖。
+石老师思维严谨，讲题条理清晰，把简单问题形象化，复杂问题简单化，让孩子们轻松愉悦地学习，产生对知识的兴趣。她善于引导孩子们多角度地观察、探讨问题，鼓励孩子们独立思考，让孩子们在提高数学的同时培养独立思考的能力，增强分析能力、应变能力。同时她很有亲和力，很喜爱孩子，喜欢和孩子们交流，关注孩子们的学习习惯和丰富的内心世界，真诚地希望每一位孩子茁壮地成长。    </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">

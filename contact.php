@@ -88,7 +88,7 @@
     }
     function createMap(){
       map = new BMap.Map("map");
-      map.centerAndZoom(new BMap.Point(118.918293,32.102643),16);
+      map.centerAndZoom(new BMap.Point(118.79971,32.046751),16);
     }
     function setMapEvent(){
       map.enableScrollWheelZoom();
@@ -103,7 +103,7 @@
     }
     function addMapOverlay(){
       var markers = [
-        {content:"仙林教学点，亚东城",title:"明睿教育仙林教学点",imageOffset: {width:0,height:3},position:{lat:32.102643,lng:118.918293}}
+        {content:"仙林教学点，亚东城",title:"明睿教育仙林教学点",imageOffset: {width:0,height:3},position:{lat:32.046751,lng:118.79971}}
       ];
       for(var index = 0; index < markers.length; index++ ){
         var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);

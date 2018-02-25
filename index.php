@@ -460,7 +460,7 @@
                                 </div>
                                 <div class="product-details">
                                     <h5><a href="/baoming.php"> 二年级暑秋班(100分钟) </a></h5>
-                                    <span class="price"> ￥120.00 / 次 </span>
+                                    <span class="price"> ￥170.00 / 次 </span>
                                 </div>
                             </li>
                             <li class="dt-sc-one-fourth column">
@@ -477,7 +477,7 @@
                                 </div>
                                 <div class="product-details">
                                     <h5><a href="/baoming.php"> 三年级暑秋班(150分钟) </a></h5>
-                                    <span class="price"> ￥180.00 / 次 </span>
+                                    <span class="price"> ￥210.00 / 次 </span>
                                 </div>
                             </li>
                             <li class="dt-sc-one-fourth column">
@@ -493,7 +493,7 @@
                                 </div>
                                 <div class="product-details">
                                     <h5><a href="/baoming.php"> 四年级暑秋班(150分钟) </a></h5>
-                                    <span class="price"> ￥180.00 / 次 </span>
+                                    <span class="price"> ￥210.00 / 次 </span>
                                 </div>
                             </li>
                         </ul>

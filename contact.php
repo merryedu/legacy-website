@@ -27,23 +27,23 @@
             	<section id="primary" class="content-full-width">
                 <h4>大行宫教学点</h4>
                 <h5>地址: 中山东路198号龙台国际大厦12楼明睿教育</h5>
-                <h5>开放时间: 周二、周三、周四10:00-18:00，周五10:00-19:30, 周六周日9:00-18:00</h5>
-                <h5>联系电话: 025-86906505</h5>
+                <h5>开放时间: 周二下午、周三至周日</h5>
+                <h5>联系电话: 131-828-12306</h5>
 					      <div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map2"></div>
 
                 <div class="dt-sc-hr-medium"></div>
 
                 <h4>鼓楼教学点</h4>
                 <h5>地址: 中央路19号金峰大厦1501明睿教育</h5>
-                <h5>开放时间: 周五14:00-20:30, 周六周日9:00-17:00 (首次拜访请提前电话预约)</h5>
-                <h5>联系电话: 025-66043328-0</h5>
+                <h5>开放时间: 周二下午、周三至周日 (首次拜访请提前电话预约)</h5>
+                <h5>联系电话: 131-828-12306</h5>
 					      <div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map3"></div>
 
 					      <div class="dt-sc-hr-medium"></div>
 
                 <h4>仙林教学点</h4>
-                <h5>地址: 南京仙林大学城杉湖西路8号东方天郡西区23栋1单元103</h5>
-                <h5>开放时间: 周二、周五14:00-20:30, 周六周日9:00-17:00</h5>
+                <h5>地址: 南京仙林大学城仙隐北路21号亚东城1期学府园9栋102(近亚东城俱乐部，亚东城西门进去就是)</h5>
+                <h5>开放时间: 首次拜访请提前电话预约</h5>
                 <h5>联系电话: 400-900-2110</h5>
 					      <div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map"></div>
 
@@ -88,7 +88,7 @@
     }
     function createMap(){
       map = new BMap.Map("map");
-      map.centerAndZoom(new BMap.Point(118.923291,32.101833),16);
+      map.centerAndZoom(new BMap.Point(118.918293,32.102643),16);
     }
     function setMapEvent(){
       map.enableScrollWheelZoom();
@@ -103,7 +103,7 @@
     }
     function addMapOverlay(){
       var markers = [
-        {content:"仙林教学点，东方天郡",title:"明睿教育仙林教学点",imageOffset: {width:0,height:3},position:{lat:32.102643,lng:118.923381}}
+        {content:"仙林教学点，亚东城",title:"明睿教育仙林教学点",imageOffset: {width:0,height:3},position:{lat:32.102643,lng:118.918293}}
       ];
       for(var index = 0; index < markers.length; index++ ){
         var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);

@@ -168,15 +168,3 @@
                             </div>
                         </div>
                     </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/wzj.jpg" alt="" title="王兆杰">
-                                <div class="dt-sc-image-overlay">
-                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>

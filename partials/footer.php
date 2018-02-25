@@ -71,7 +71,7 @@
                             <div class="textwidget">
                               <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 中山东路198号龙台国际大厦12楼1215室(近大行宫地铁站)</p>
                               <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 鼓楼中央路19号金峰大厦1501室(近鼓楼地铁站)</p>
-                              <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 南京仙林大学城杉湖西路8号东方天郡西区23栋1单元103(近学则路地铁站)</p>
+                              <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 仙林大学城仙隐北路21号亚东城1期学府园9栋102(近亚东城俱乐部，亚东城西门进去就是)</p>
 
                               <p class="dt-sc-contact-info"><span class="fa fa-phone"></span> 400-900-2110 </p>
                               <p class="dt-sc-contact-info"><span class="fa fa-envelope"></span><a href="mailto:wxy@merryedu.com"> wxy@merryedu.com </a></p>

@@ -178,29 +178,5 @@
                                     <a href="#" class="zoom"><span class="fa fa-search"></span></a>
                                 </div>
                             </div>
-                            <div class="team-details">
-                                <h4> 王兆杰老师 </h4>
-                                <h6> 明睿数学名师 </h6>
-                                <p> 王老师毕业于南京大学。学生时代曾获小学生数学报竞赛江苏省一等奖、初中数学竞赛全国三等奖及全国高中数学竞赛江苏赛区省级一等奖，对数学竞赛的学习及考试有着丰富的经验和独到的见解。
-王老师的思辨能力强，授课思路清晰严谨，时常在教学过程中审视自身的教学质量，结合学生的课堂表现和自身的学习经验，改进教学方法。王老师注重培养学生良好的学习习惯和解题思维能力，因为他认为，培养学生发现问题、解决问题和总结问题的逻辑思维能力不仅在数学领域，对生活的各个方面都大有裨益。
-与此同时，王老师也是一位富有耐心，性格温和的老师。他喜爱和孩子们相处的教学时光，重视和孩子们之间的交流，对教育领域充满了好奇和热情，致力于引导和鼓励每一个孩子的学习和成长。他希望孩子们能够在取得优异数学成绩的同时，感受到数学的魅力，爱上数学，爱上学习。    </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/xzy.jpg" alt="" title="席志远">
-                                <div class="dt-sc-image-overlay">
-                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 席志远老师 </h4>
-                                <h6> 明睿数学高年级名师 </h6>
-                                <p> 来自南京大学理工院系、有着三年数学教学经验的温柔男生，呆萌、幽默、犀利、清晰多种矛盾因素集于一身，既能化身冷静理科男给孩子讲述数学道理，又能变成欢脱大男孩与孩子一起探讨数学问题，帮助过许多孩子在数学上获得巨大进步，想对多重风格了解更多，请紧盯席老师回眸一笑时真诚的眼睛。 </p>
-                            </div>
                         </div>
                     </div>

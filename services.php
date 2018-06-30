@@ -100,13 +100,13 @@
 
                 <div class="column dt-sc-one-third">
                     <ul class="dt-sc-fancy-list mustard star">
-                        <li><a href="/doc/2018_new_grade_1_summer_autumn_courses.htm?update=100">2018暑秋新一年级课程安排</a></li>
-                        <li><a href="/doc/2018_new_grade_2_summer_autumn_courses.htm?update=100">2018暑秋新二年级课程安排</a></li>
-                        <li><a href="/doc/2018_new_grade_3_summer_autumn_courses.htm?update=100">2018暑秋新三年级课程安排</a></li>
-                        <li><a href="/doc/2018_new_grade_4_summer_autumn_courses.htm?update=100">2018暑秋新四年级课程安排</a></li>
-                        <li><a href="/doc/2018_new_grade_5_summer_autumn_courses.htm?update=100">2018暑秋新五年级课程安排</a></li>
-                        <li><a href="/doc/2018_new_grade_6_summer_autumn_courses.htm?update=100">2018暑秋新六年级课程安排</a></li>
-                        <li><a href="/doc/2018_new_grade_7_summer_autumn_courses.htm?update=100">2018暑秋新初一课程安排</a></li>
+                        <li><a href="/doc/2018_new_grade_1_summer_autumn_courses.htm?update=101">2018暑秋新一年级课程安排</a></li>
+                        <li><a href="/doc/2018_new_grade_2_summer_autumn_courses.htm?update=101">2018暑秋新二年级课程安排</a></li>
+                        <li><a href="/doc/2018_new_grade_3_summer_autumn_courses.htm?update=101">2018暑秋新三年级课程安排</a></li>
+                        <li><a href="/doc/2018_new_grade_4_summer_autumn_courses.htm?update=101">2018暑秋新四年级课程安排</a></li>
+                        <li><a href="/doc/2018_new_grade_5_summer_autumn_courses.htm?update=101">2018暑秋新五年级课程安排</a></li>
+                        <li><a href="/doc/2018_new_grade_6_summer_autumn_courses.htm?update=101">2018暑秋新六年级课程安排</a></li>
+                        <li><a href="/doc/2018_new_grade_7_summer_autumn_courses.htm?update=101">2018暑秋新初一课程安排</a></li>
                     </ul>
                 </div>
 

@@ -101,13 +101,13 @@
 
                 <div class="column dt-sc-one-third">
                     <ul class="dt-sc-fancy-list pink smile">
-                        <li><a href="/doc/2018_grade_1_winter_spring_courses.htm?update=1">2018-2019寒春一年级课程安排</a></li>
-                        <li><a href="/doc/2018_grade_2_winter_spring_courses.htm?update=1">2018-2019寒春二年级课程安排</a></li>
-                        <li><a href="/doc/2018_grade_3_winter_spring_courses.htm?update=1">2018-2019寒春三年级课程安排</a></li>
-                        <li><a href="/doc/2018_grade_4_winter_spring_courses.htm?update=1">2018-2019寒春四年级课程安排</a></li>
-                        <li><a href="/doc/2018_grade_5_winter_spring_courses.htm?update=1">2018-2019寒春五年级课程安排</a></li>
-                        <li><a href="/doc/2018_grade_6_winter_spring_courses.htm?update=1">2018-2019寒春六年级课程安排</a></li>
-                        <li><a href="/doc/2018_grade_7_winter_spring_courses.htm?update=1">2018-2019寒春初一年级课程安排</a></li>
+                        <li><a href="/doc/2018_grade_1_winter_spring_courses.htm?update=2">2018-2019寒春一年级课程安排</a></li>
+                        <li><a href="/doc/2018_grade_2_winter_spring_courses.htm?update=2">2018-2019寒春二年级课程安排</a></li>
+                        <li><a href="/doc/2018_grade_3_winter_spring_courses.htm?update=2">2018-2019寒春三年级课程安排</a></li>
+                        <li><a href="/doc/2018_grade_4_winter_spring_courses.htm?update=2">2018-2019寒春四年级课程安排</a></li>
+                        <li><a href="/doc/2018_grade_5_winter_spring_courses.htm?update=2">2018-2019寒春五年级课程安排</a></li>
+                        <li><a href="/doc/2018_grade_6_winter_spring_courses.htm?update=2">2018-2019寒春六年级课程安排</a></li>
+                        <li><a href="/doc/2018_grade_7_winter_spring_courses.htm?update=2">2018-2019寒春初一年级课程安排</a></li>
                     </ul>
                 </div>
 

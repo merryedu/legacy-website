@@ -92,7 +92,7 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/gy.jpg" alt="" title="郭婧">
+                                <img src="images/gy.png" alt="" title="高扬">
                                 <div class="dt-sc-image-overlay">
                                   <a href="#" class="link"><span class="fa fa-link"></span></a>
                                     <a href="#" class="zoom"><span class="fa fa-search"></span></a>
@@ -112,7 +112,7 @@
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/lyh.jpg" alt="" title="汤小婷">
+                                <img src="images/lyh.png" alt="" title="刘业华">
                                 <div class="dt-sc-image-overlay">
                                 	<a href="#" class="link"><span class="fa fa-link"></span></a>
                                     <a href="#" class="zoom"><span class="fa fa-search"></span></a>
@@ -127,7 +127,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="dt-sc-hr"></div>
                     <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
                             <div class="image">
@@ -147,6 +146,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="dt-sc-hr"></div>
                     <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
                             <div class="image">

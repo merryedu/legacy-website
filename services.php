@@ -101,14 +101,16 @@
 
                 <div class="column dt-sc-one-third">
                     <ul class="dt-sc-fancy-list mustard star">
-                        <li><a href="/doc/2019_new_grade_1_summer_autumn_courses.htm?update=1">2019暑秋新一年级课程安排</a></li>
-                        <li><a href="/doc/2019_new_grade_2_summer_autumn_courses.htm?update=1">2019暑秋新二年级课程安排</a></li>
-                        <li><a href="/doc/2019_new_grade_3_summer_autumn_courses.htm?update=1">2019暑秋新三年级课程安排</a></li>
-                        <li><a href="/doc/2019_new_grade_4_summer_autumn_courses.htm?update=1">2019暑秋新四年级课程安排</a></li>
-                        <li><a href="/doc/2019_new_grade_5_summer_autumn_courses.htm?update=1">2019暑秋新五年级课程安排</a></li>
-                        <li><a href="/doc/2019_new_grade_6_summer_autumn_courses.htm?update=1">2019暑秋新六年级课程安排</a></li>
-                        <li><a href="/doc/2019_new_grade_7_summer_autumn_courses.htm?update=1">2019暑秋新初一课程安排</a></li>
-                        <li><a href="/doc/2019_new_grade_8_summer_autumn_courses.htm?update=1">2019暑秋新初二课程安排</a></li>
+                        <li><a href="/doc/2019_new_grade_1_summer_autumn_courses.htm?update=2">2019暑秋新一年级课程安排</a></li>
+                        <li><a href="/doc/2019_new_grade_2_summer_autumn_courses.htm?update=2">2019暑秋新二年级课程安排</a></li>
+                        <li><a href="/doc/2019_new_grade_3_summer_autumn_courses.htm?update=2">2019暑秋新三年级课程安排</a></li>
+                        <li><a href="/doc/2019_new_grade_4_summer_autumn_courses.htm?update=2">2019暑秋新四年级课程安排</a></li>
+                        <li><a href="/doc/2019_new_grade_5_summer_autumn_courses.htm?update=2">2019暑秋新五年级课程安排</a></li>
+                        <li><a href="/doc/2019_new_grade_6_summer_autumn_courses.htm?update=2">2019暑秋新六年级课程安排</a></li>
+                        <li><a href="/doc/2019_new_grade_7_summer_autumn_courses.htm?update=2">2019暑秋新初一课程安排</a></li>
+                        <li><a href="/doc/2019_new_grade_8_summer_autumn_courses.htm?update=2">2019暑秋新初二课程安排</a></li>
+                        <li><a href="/doc/2019_new_grade_8_english_summer_autumn_courses.htm?update=2">2019英语暑秋新初二课程安排</a></li>
+                        <li><a href="/doc/2019_new_grade_8_physics_summer_autumn_courses.htm?update=2">2019物理暑秋新初二课程安排</a></li>
                     </ul>
                 </div>
 

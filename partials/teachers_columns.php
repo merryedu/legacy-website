@@ -88,45 +88,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/gy.png" alt="" title="高扬">
-                                <div class="dt-sc-image-overlay">
-                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 高扬老师 </h4>
-                                <h6> 明睿数学名师 </h6>
-                                <p> 毕业于南京大学，从小对数学有着极大的兴趣和极高的天赋，小学时曾获奥林匹克竞赛一等奖，中考数学成绩满分，高中时曾获江苏省数学竞赛二等奖，高考成绩接近满分。<br>
-他用自己饱满的热情，生动的课堂和亲切的态度引导学生形成良好的学习习惯，让学生在学习的道路上受益终身。他热爱自己的每一位学生，也衷心地希望自己的学生都能够青出于蓝而胜于蓝！
-
- </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-fourth">
-                        <div class="dt-sc-team">
-                            <div class="image">
-                                <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/lyh.png" alt="" title="刘业华">
-                                <div class="dt-sc-image-overlay">
-                                	<a href="#" class="link"><span class="fa fa-link"></span></a>
-                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
-                                </div>
-                            </div>
-                            <div class="team-details">
-                                <h4> 刘业华老师 </h4>
-                                <h6> 明睿低年级负责人 </h6>
-                                <p>  毕业于南京师范大学，拥有国家心理咨询师证书，熟悉各阶段孩子学习的特点和发展规律，注重学生个性发展，用简单的语言将数学知识传授给孩子，富有亲和力和感染力，深受学生喜爱。<br>
-她致力于帮助孩子找到适合自己的学习方法，在学习的道路上走得更稳、更远。
- </p>
-                            </div>
-                        </div>
-                    </div>
                     <div class="column dt-sc-one-fourth first">
                         <div class="dt-sc-team">
                             <div class="image">
@@ -146,23 +107,40 @@
                             </div>
                         </div>
                     </div>
-                    <div class="dt-sc-hr"></div>
-                    <div class="column dt-sc-one-fourth first">
+                    <div class="column dt-sc-one-fourth">
                         <div class="dt-sc-team">
                             <div class="image">
                                 <img class="item-mask" src="images/mask.png" alt="" title="">
-                                <img src="images/ztm.jpg" alt="" title="张铁民">
+                                <img src="images/lyh.png" alt="" title="刘业华">
                                 <div class="dt-sc-image-overlay">
                                   <a href="#" class="link"><span class="fa fa-link"></span></a>
                                     <a href="#" class="zoom"><span class="fa fa-search"></span></a>
                                 </div>
                             </div>
                             <div class="team-details">
-                                <h4> 张铁民老师 </h4>
-                                <h6> 明睿数学高年级名师 </h6>
-                                <p> 毕业于南京大学， 学生时代的成绩非常优秀，他对数学非常热爱，并且取得了骄人的成绩。小学和初中连续多年获得江苏省数学竞赛一等奖，高中夺得全国数学联赛一等奖， 也曾多次获得其他各类理科竞赛一等奖。<br>
-他的数学逻辑思维极强，喜欢钻研，对问题寻根求源，解决难题思路极为开阔，能带孩子在数学的世界里大展拳脚，找到自己的前进之路。他性格温和，具有有亲和力，深受孩子们的喜爱。他热爱教育事业，怀揣着一颗赤诚的心，注重培养孩子的数学逻辑思维，希望能够把自己对数学的感觉与经验传递给每一个孩子，真正帮助他们掌握更多的学习方法，获得更加优异的成绩。
-</p>
+                                <h4> 刘业华老师 </h4>
+                                <h6> 明睿低年级负责人 </h6>
+                                <p>  毕业于南京师范大学，拥有国家心理咨询师证书，熟悉各阶段孩子学习的特点和发展规律，注重学生个性发展，用简单的语言将数学知识传授给孩子，富有亲和力和感染力，深受学生喜爱。<br>
+她致力于帮助孩子找到适合自己的学习方法，在学习的道路上走得更稳、更远。
+ </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-fourth">
+                        <div class="dt-sc-team">
+                            <div class="image">
+                                <img class="item-mask" src="images/mask.png" alt="" title="">
+                                <img src="images/zxy.jpg" alt="" title="张雪妍">
+                                <div class="dt-sc-image-overlay">
+                                  <a href="#" class="link"><span class="fa fa-link"></span></a>
+                                    <a href="#" class="zoom"><span class="fa fa-search"></span></a>
+                                </div>
+                            </div>
+                            <div class="team-details">
+                                <h4> 张雪妍老师 </h4>
+                                <h6> 明睿数学名师 </h6>
+                                <p> 张雪妍，毕业于安徽师范大学，高考数学接近满分。大学时期主修数学，数学功底扎实，曾在全国数学建模比赛中获二等奖，在大学期间参与支教活动荣获"优秀教员"称号。她热爱教育事业，教学风格严谨，能够针对不同学生进行教学，用生动幽默的讲课方式调动学生的学习积极性，帮助学生理清思路，培养独立思考的能力，养成良好的学习习惯。
+ </p>
                             </div>
                         </div>
                     </div>

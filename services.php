@@ -112,7 +112,7 @@
                         <li><a href="/doc/2020_new_grade_7_summer_autumn_courses.htm?update=1">2020暑秋新初一课程安排</a></li>
                         <li><a href="/doc/2020_new_grade_8_summer_autumn_courses.htm?update=1">2020暑秋新初二课程安排</a></li>
                         <li><a href="/doc/2020_new_grade_8_physics_summer_autumn_courses.htm?update=1">2020物理暑秋新初二课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_9_summer_autumn_courses.htm?update=1">2020暑秋新初三课程安排</a></li>
+                        <li><a href="/doc/2020_new_grade_9_summer_autumn_courses.htm?update=1">2020暑秋新初三数学课程安排</a></li>
                         <li><a href="/doc/2020_new_grade_9_physics_summer_autumn_courses.htm?update=1">2020暑秋新初三物理课程安排</a></li>
                         <li><a href="/doc/2020_new_grade_9_chemistry_summer_autumn_courses.htm?update=1">2020暑秋新初三化学课程安排</a></li>
                         <li><a href="/doc/2020_new_grade_9_english_summer_autumn_courses.htm?update=1">2020英语暑秋新初三课程安排</a></li>

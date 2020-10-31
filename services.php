@@ -116,7 +116,7 @@
                         <li><a href="/doc/2020_grade_7_winter_spring_courses.htm?update=1">2020-2021寒春初一年级课程安排</a></li>
                         <li><a href="/doc/2020_grade_8_winter_spring_courses.htm?update=1">2020-2021寒春初二年级课程安排</a></li>
                         <li><a href="/doc/2020_grade_8_physics_winter_spring_courses.htm?update=1">2020-2021寒春物理初二年级课程安排</a></li>
-                        <li><a href="/doc/2020_grade_9_winter_spring_course.htms?update=1">2020-2021寒春初三数学课程安排</a></li>
+                        <li><a href="/doc/2020_grade_9_winter_spring_courses.htm?update=1">2020-2021寒春初三数学课程安排</a></li>
                         <li><a href="/doc/2020_grade_9_physics_winter_spring_courses.htm?update=1">2020-2021寒春初三物理课程安排</a></li>
                         <li><a href="/doc/2020_grade_9_chemistry_winter_spring_courses.htm?update=1">2020-2021寒春初三化学课程安排</a></li>
                         <li><a href="/doc/2020_grade_9_english_winter_spring_courses.htm?update=1">2020-2021英语寒春初三课程安排</a></li>

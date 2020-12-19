@@ -26,7 +26,7 @@
             	<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=ZTnglUUopg2HSY2QAM7n9k4N"></script>
             	<section id="primary" class="content-full-width">
                 <h4>大行宫教学点</h4>
-                <h5>地址: 中山东路198号龙台国际大厦12楼明睿教育</h5>
+                <h5>地址: 延龄巷27号万谷众创空间文化产业园402b(近大行宫、常府街地铁站)</h5>
                 <h5>开放时间: 周二下午、周三至周日</h5>
                 <h5>联系电话: 131-828-12306</h5>
 					      <div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map2"></div>
@@ -34,17 +34,17 @@
                 <div class="dt-sc-hr-medium"></div>
 
                 <h4>鼓楼教学点</h4>
-                <h5>地址: 中央路19号金峰大厦1501明睿教育</h5>
-                <h5>开放时间: 周二下午、周三至周日 (首次拜访请提前电话预约)</h5>
+                <h5>地址: 云南北路49号鼓楼天星翠琅大厦11楼1105</h5>
+                <h5>开放时间: 周末 (首次拜访请提前电话预约)</h5>
                 <h5>联系电话: 131-828-12306</h5>
 					      <div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map3"></div>
 
 					      <div class="dt-sc-hr-medium"></div>
 
                 <h4>仙林教学点</h4>
-                <h5>地址: 南京仙林大学城仙隐北路21号亚东城1期学府园9栋102(近亚东城俱乐部，亚东城西门进去就是)</h5>
+                <h5>地址: 仙林大学城风华路1号仙林曼度广场4楼</h5>
                 <h5>开放时间: 首次拜访请提前电话预约</h5>
-                <h5>联系电话: 400-900-2110</h5>
+                <h5>联系电话: 131-828-12306</h5>
 					      <div style="width:700px;height:550px;border:#ccc solid 1px;font-size:12px" id="map"></div>
 
                     <div class="dt-sc-hr"> </div>
@@ -160,7 +160,7 @@
     }
     function addMapOverlay2(){
       var markers = [
-        {content:"大行宫教学点，中山东路198号龙台国际大厦12楼",title:"明睿教育大行宫教学点",imageOffset: {width:0,height:3},position:{lat:32.046751,lng:118.79971}}
+        {content:"大行宫教学点，万谷众创空间产业园",title:"明睿教育大行宫教学点",imageOffset: {width:0,height:3},position:{lat:32.042252,lng:118.797435}}
       ];
       for(var index = 0; index < markers.length; index++ ){
         var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);
@@ -217,7 +217,7 @@
     }
     function addMapOverlay3(){
       var markers = [
-        {content:"鼓楼教学点，中央路19号金峰大厦1501",title:"明睿教育鼓楼教学点",imageOffset: {width:0,height:3},position:{lat:32.068495,lng:118.789768}}
+        {content:"鼓楼教学点，",title:"天星翠琅大厦",imageOffset: {width:0,height:3},position:{lat:32.072049,lng:118.785879}}
       ];
       for(var index = 0; index < markers.length; index++ ){
         var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);
@@ -253,7 +253,7 @@
             </div>
             <!--container ends-->
         </div>
-        <!--main ends-->  
+        <!--main ends-->
 
         <!--footer starts-->
 <?php include( "partials/footer.php" ); ?>

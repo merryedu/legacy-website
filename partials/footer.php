@@ -69,11 +69,11 @@
                         <aside class="widget widget_text">
                         <h3 class="widgettitle steelblue_sketch">联系方式</h3>
                             <div class="textwidget">
-                              <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 中山东路198号龙台国际大厦12楼1215室(近大行宫地铁站)</p>
-                              <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 鼓楼中央路19号金峰大厦1501室(近鼓楼地铁站)</p>
-                              <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 仙林大学城仙隐北路21号亚东城1期学府园9栋102(近亚东城俱乐部，亚东城西门进去就是)</p>
+                              <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 延龄巷27号万谷众创空间文化产业园402b(近大行宫、常府街地铁站)</p>
+                              <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 云南北路49号鼓楼天星翠琅大厦</p>
+                              <p class="dt-sc-contact-info"><span class="fa fa-map-marker"></span> 仙林大学城风华路1号仙林曼度广场4楼</p>
 
-                              <p class="dt-sc-contact-info"><span class="fa fa-phone"></span> 400-900-2110 </p>
+                              <p class="dt-sc-contact-info"><span class="fa fa-phone"></span> 13182812306 </p>
                               <p class="dt-sc-contact-info"><span class="fa fa-envelope"></span><a href="mailto:wxy@merryedu.com"> wxy@merryedu.com </a></p>
                               <p class="dt-sc-contact-info"><span class="fa fa-qq"></span> QQ号: 764705242 </a></p>
                             </div>

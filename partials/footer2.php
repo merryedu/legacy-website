@@ -102,7 +102,7 @@
             <!--footer-widgets-wrapper ends-->
             <div class="copyright">
         		<div class="container">
-                	<p class="copyright-info"> ©版权所有：明睿教育 Copy Right 2017 merryedu.com All Right Reserved. <a href="https://beian.miit.gov.cn" title="工信部备案管理系统网址"> 苏ICP备15002411号</a></p>
+                	<p class="copyright-info"> ©版权所有：明睿教育 Copy Right 2017 merryedu.com All Right Reserved. <a href="https://beian.miit.gov.cn" title="工信部备案管理系统网址"> 苏ICP备15002411号-1</a></p>
         			<div class="footer-links">
                         <p>关注我们</p>
                         <ul class="dt-sc-social-icons">

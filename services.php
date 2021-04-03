@@ -88,24 +88,6 @@
                 <h2 class="dt-sc-hr-green-title">2020年明睿数学课程</h2>
 
                 <div class="column dt-sc-one-third">
-                    <ul class="dt-sc-fancy-list mustard star">
-                        <li><a href="/doc/2020_new_grade_1_summer_autumn_courses.htm?update=5">2020暑秋新一年级课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_2_summer_autumn_courses.htm?update=5">2020暑秋新二年级课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_3_summer_autumn_courses.htm?update=5">2020暑秋新三年级课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_4_summer_autumn_courses.htm?update=5">2020暑秋新四年级课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_5_summer_autumn_courses.htm?update=5">2020暑秋新五年级课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_6_summer_autumn_courses.htm?update=5">2020暑秋新六年级课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_7_summer_autumn_courses.htm?update=5">2020暑秋新初一课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_8_summer_autumn_courses.htm?update=5">2020暑秋新初二课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_8_physics_summer_autumn_courses.htm?update=5">2020物理暑秋新初二课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_9_summer_autumn_courses.htm?update=5">2020暑秋新初三数学课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_9_physics_summer_autumn_courses.htm?update=5">2020暑秋新初三物理课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_9_chemistry_summer_autumn_courses.htm?update=5">2020暑秋新初三化学课程安排</a></li>
-                        <li><a href="/doc/2020_new_grade_9_english_summer_autumn_courses.htm?update=5">2020英语暑秋新初三课程安排</a></li>
-                    </ul>
-                </div>
-
-                <div class="column dt-sc-one-third">
                     <ul class="dt-sc-fancy-list pink smile">
                         <li><a href="/doc/2020_grade_1_winter_spring_courses.htm?update=2">2020-2021寒春一年级课程安排</a></li>
                         <li><a href="/doc/2020_grade_2_winter_spring_courses.htm?update=1">2020-2021寒春二年级课程安排</a></li>
@@ -120,6 +102,27 @@
                         <li><a href="/doc/2020_grade_9_physics_winter_spring_courses.htm?update=2">2020-2021寒春初三物理课程安排</a></li>
                         <li><a href="/doc/2020_grade_9_chemistry_winter_spring_courses.htm?update=1">2020-2021寒春初三化学课程安排</a></li>
                         <li><a href="/doc/2020_grade_9_english_winter_spring_courses.htm?update=1">2020-2021英语寒春初三课程安排</a></li>
+                    </ul>
+                </div>
+
+                <div class="column dt-sc-one-third">
+                    <ul class="dt-sc-fancy-list mustard star">
+                        <li><a href="/doc/2021_new_grade_1_summer_autumn_courses.htm?update=1">2021暑秋新一年级课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_2_summer_autumn_courses.htm?update=1">2021暑秋新二年级课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_3_summer_autumn_courses.htm?update=1">2021暑秋新三年级课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_4_summer_autumn_courses.htm?update=1">2021暑秋新四年级课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_5_summer_autumn_courses.htm?update=1">2021暑秋新五年级课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_6_summer_autumn_courses.htm?update=1">2021暑秋新六年级课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_7_summer_autumn_courses.htm?update=1">2021暑秋新初一课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_8_summer_autumn_courses.htm?update=1">2021暑秋新初二课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_8_physics_summer_autumn_courses.htm?update=1">2021物理暑秋新初二课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_9_summer_autumn_courses.htm?update=1">2021暑秋新初三数学课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_9_physics_summer_autumn_courses.htm?update=1">2021暑秋新初三物理课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_9_chemistry_summer_autumn_courses.htm?update=1">2021暑秋新初三化学课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_10_summer_autumn_courses.htm?update=1">2021暑秋新高一数学课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_10_physics_summer_autumn_courses.htm?update=1">2021暑秋新高一物理课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_10_chemistry_summer_autumn_courses.htm?update=1">2021暑秋新高一化学课程安排</a></li>
+                        <li><a href="/doc/2021_new_grade_10_english_summer_autumn_courses.htm?update=1">2021暑秋新高一英语课程安排</a></li>
                     </ul>
                 </div>
 
